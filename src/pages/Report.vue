@@ -10,10 +10,10 @@
     <div class="overflow-x-hidden">
       <div class="contact-me bg-background-secondary pt-16">
         <div class="container-inner mx-auto text-xl pb-4 relative">
-          <p
-            class="mb-6"
-            id="contact"
-          >If you do not wish to engage our committee, are not seeking a resolution, and do not need personal follow-up, you may use this form to make a report to us about any issue. Your report will be emailed to all members of the current [CR committee](/manual/conflict-resolution-committee/).</p>
+          <p class="mb-6" id="contact">
+            If you do not wish to engage our committee, are not seeking a resolution, and do not need personal follow-up, you may use this form to make a report to us about any issue. Your report will be emailed to all members of the current
+            <g-link to="/manual/conflict-resolution-committee/">CR committee</g-link>.
+          </p>
 
           <div
             v-if="submitted"
