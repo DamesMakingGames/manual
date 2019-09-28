@@ -9,12 +9,11 @@
         :key="post.node.id"
         class="post border-gray-400 border-b mb-12"
       >
-        <h2 class="text-3xl font-bold">
+        <h2 class="text-xl md:text-2xl font-bold mb-0">
           <g-link :to="post.node.path" class="text-copy-primary">{{ post.node.title }}</g-link>
         </h2>
-        <div class="text-copy-secondary mb-4"></div>
 
-        <div class="text-lg mb-4">{{ post.node.summary }}</div>
+        <div class="md:text-lg mb-4">{{ post.node.summary }}</div>
       </div>
 
       <pagination-posts

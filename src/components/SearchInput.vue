@@ -43,7 +43,7 @@
       <div
         v-if="query.length > 0 && searchResultsVisible"
         class="normal-case absolute border left-0 right-0 w-108 text-left mb-4 mt-2 rounded-lg shadow overflow-hidden z-10 overflow-y-auto no-underline"
-        style="max-height: 22rem"
+        style="max-height: 32rem"
       >
         <div class="flex flex-col" ref="results">
           <a
