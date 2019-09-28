@@ -3,7 +3,7 @@ title: "Running or Volunteering at an Event"
 date: 2019-03-07
 summary: Guidelines for helping out at or running a DMG event.
 path: /running-an-event
-tags: ["Guidelines"]
+tags: ["guidelines", "community-manual"]
 ---
 
 ## Prep
@@ -53,7 +53,7 @@ _For socials and regular workshops, this is likely the captain_
 
 #### Opening Remarks
 
-- For exhibitions, panels, or other more formal events, please [acknowledge that we are guests on Indigenous peoples' territory](/member-manual/info-territorial-acknowledgment).
+- For exhibitions, panels, or other more formal events, please [acknowledge that we are guests on Indigenous peoples' territory](/manual/info-territorial-acknowledgment).
 - Introduce yourself
   - "Hi, I'm \_\_\_\_\_\_\_\_\_ and I am a _director / member / volunteer_ with Dames Making Games." Make it personal and share something about yourself!
 - Introduce DMG

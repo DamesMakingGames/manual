@@ -3,7 +3,7 @@ title: "Livetweeting Guidelines"
 date: 2019-03-07
 summary: Guidelines for tweeting on behalf of DMG.
 path: /how-to-tweet
-tags: ["Guidelines"]
+tags: ["guidelines", "community-manual"]
 ---
 
 Thanks so much for volunteering your time and energy! This is a handy, at-a-glance guide to livetweeting a DMG event, including workshops, Speaker’s Socials, or showcases.

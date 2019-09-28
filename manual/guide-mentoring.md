@@ -3,7 +3,7 @@ title: "Mentor and Volunteer Guidelines"
 date: 2019-03-07
 summary: Guidelines for being a good mentor at a DMG program.
 path: /mentorship-guidelines
-tags: ["Guidelines"]
+tags: ["guidelines", "community-manual"]
 ---
 
 **Thank you for considering volunteering to mentor with Dames Making Games!** If this is your first time volunteering with DMG, please take a moment to read through these guidelines.

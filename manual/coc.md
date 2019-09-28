@@ -3,7 +3,7 @@ title: "Code of Conduct"
 date: 2019-03-07
 summary: DMG's Code of Conduct.
 path: /code-of-conduct
-tags: ["Code of Conduct"]
+tags: ["code-of-conduct", "community-manual"]
 ---
 
 # Code of Conduct

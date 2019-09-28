@@ -3,7 +3,7 @@ title: "Accessibility"
 date: 2019-03-07
 summary: Information about the physical accessibility of our space.
 path: /accessibility
-tags: ["Info"]
+tags: ["info", "community-manual"]
 ---
 
 The DMG workshop and office space is situated within the Toronto Media Arts Centre, a facility for nonprofits offering public event and exhibition spaces and offices for its member groups.

@@ -3,7 +3,7 @@ title: "Speaker and Artist Fee Policy"
 date: 2019-03-07
 summary: Compensation table for artists.
 path: /artist-fee-policy
-tags: ["Policies"]
+tags: ["policies", "community-manual"]
 ---
 
 DMG recognizes the value of the time and experience of its members and guests, and strives to compensate all speakers and artists fairly.

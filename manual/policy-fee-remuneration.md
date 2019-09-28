@@ -3,7 +3,7 @@ title: "Festival Entry Fee Remuneration Policy"
 date: 2019-03-07
 summary: Information about our festival entry fee policies.
 path: /festival-fee-policy
-tags: ["Policies"]
+tags: ["policies", "community-manual"]
 ---
 
 DMG will reimburse festival and exhibition entry fees up to $100 CAD per event. There is a yearly limit of $150 CAD per member.

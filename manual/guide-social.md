@@ -3,7 +3,7 @@ title: "How To Present at a Speaker Social"
 date: 2019-03-07
 summary: Guidelines for presenting at one of our socials.
 path: /how-to-present-at-a-social
-tags: ["Guidelines"]
+tags: ["guidelines", "community-manual"]
 ---
 
 ### Who presents at DMG Speaker Socials?

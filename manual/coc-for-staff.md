@@ -1,9 +1,9 @@
 ---
-title: "Reporting CoC Violations: For Staff/Organizers"
+title: "Responding to CoC Violations"
 date: 2019-03-07
 summary: How organizers respond to incident reports.
-path: /code-of-conduct/for-organizers
-tags: ["Code of Conduct"]
+path: /responding-to-coc-violations
+tags: ["code-of-conduct", "organizers-manual"]
 ---
 
 ## Receiving reports

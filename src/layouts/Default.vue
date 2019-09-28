@@ -36,8 +36,17 @@
             >Contact</a>
             <g-link v-else to="/#contact" class="text-copy-primary hover:text-gray-600">Contact</g-link>
           </li>
+          <li class="mr-8 mb-6 lg:mb-0">
+            <g-link
+              to="/tag/community-manual"
+              class="text-copy-primary hover:text-gray-600"
+            >For Members</g-link>
+          </li>
           <li>
-            <g-link to="/member-manual" class="text-copy-primary hover:text-gray-600">Member Manual</g-link>
+            <g-link
+              to="/tag/organizers-manual"
+              class="text-copy-primary hover:text-gray-600"
+            >For Organizers</g-link>
           </li>
         </ul>
       </nav>
@@ -51,8 +60,7 @@
         <div class="mb-8 lg:mb-0">
           <div>Copyright 2019. All rights reserved.</div>
           <div>
-            <a href="rss.xml" class="text-white hover:text-gray-400 font-normal">RSS Feed</a> |
-            <a href="sitemap.xml" class="text-white hover:text-gray-400 font-normal">Sitemap</a>
+            <a href="/sitemap.xml" class="text-white hover:text-gray-400 font-normal">Sitemap</a>
           </div>
         </div>
       </div>

@@ -3,7 +3,7 @@ title: "How to Run a Game Jam"
 date: 2019-03-07
 summary: Guidelines for planning and running a game jam.
 path: /how-to-run-a-game-jam
-tags: ["Guidelines"]
+tags: ["guidelines", "community-manual"]
 ---
 
 Depending on the nature of the jam and experience level of the participants, more or less structure than outlined here may be appropriate. More guidance will be needed for first-timers, but you’ll want to find a balance between rigid checkpoints and allowing jammers to stay in their flow.

@@ -3,7 +3,7 @@ title: "Avoiding Ableist Language"
 date: 2019-03-07
 summary: Guidelines for avoiding harmful language.
 path: /avoiding-ableist-language
-tags: ["Guidelines"]
+tags: ["guidelines", "community-manual"]
 ---
 
 DMG strives to provide a space free from linguistic, physical, environmental and social barriers.

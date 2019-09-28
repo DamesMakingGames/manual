@@ -3,7 +3,7 @@ title: "Territorial Acknowledgment"
 date: 2019-03-07
 summary: Information about our territorial acknowledgment.
 path: /territorial-acknowledgment
-tags: ["Info"]
+tags: ["info", "community-manual"]
 ---
 
 We encourage event organizers to acknowledge the territory we are situated on, and to engage with it individually. Our board and community leadership commits to deepening our engagement with the decolonial project, humbly seeking conversations with Indigenous communities, and continually considering the purpose of and working to improve verbal acknowledgments.

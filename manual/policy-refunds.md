@@ -3,7 +3,7 @@ title: "Ticket Refund Policy"
 date: 2019-03-07
 summary: Information on our ticket refund policy.
 path: /ticket-refund-policy
-tags: ["Policies"]
+tags: ["policies", "community-manual"]
 ---
 
 ## Terms

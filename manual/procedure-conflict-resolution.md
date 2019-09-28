@@ -3,7 +3,7 @@ title: "Conflict Resolution Procedures"
 date: 2019-03-07
 summary: Information on our conflict resulution procedures.
 path: /conflict-resolution-procedures
-tags: ["Procedures"]
+tags: ["procedures", "community-manual"]
 ---
 
 ## Informal complaints & dispute resolution

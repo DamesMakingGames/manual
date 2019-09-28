@@ -3,6 +3,7 @@ const tailwind = require("tailwindcss");
 const purgecss = require("@fullhuman/postcss-purgecss");
 const postcssPlugins = [tailwind(), postcssNested];
 require("dotenv").config();
+const slugify = require("slugify");
 
 if (process.env.NODE_ENV === "production") postcssPlugins.push(purgecss());
 
@@ -11,38 +12,30 @@ module.exports = {
   siteDescription: "DMG member manual",
   siteUrl: "https://manual.dmg.to",
   templates: {
-    Post: "/member-manual/:path"
+    Post: "/manual/:path",
+    Tag: "/tag/:id"
   },
   plugins: [
     {
       use: "@gridsome/source-filesystem",
       options: {
-        path: "member-manual/**.md",
-        typeName: "Post"
-      }
-    },
-    {
-      use: "gridsome-plugin-rss",
-      options: {
-        contentTypeName: "Post",
-        feedOptions: {
-          title: "DMG Member Manual",
-          feed_url: "https://member.dmg.to/rss.xml",
-          site_url: "https://member.dmg.to/"
-        },
-        feedItemOptions: node => ({
-          title: node.title,
-          description: node.summary,
-          url: "https://member.dmg.to" + node.path,
-          author: "Jennie Robinson Faber",
-          date: node.date
-        }),
-        output: {
-          dir: "./static",
-          name: "rss.xml"
+        path: "manual/**.md",
+        typeName: "Post",
+        refs: {
+          tags: {
+            typeName: "Tag"
+          }
         }
       }
     },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        path: "tags/**.md",
+        typeName: "Tag"
+      }
+    },
+
     {
       use: "@gridsome/plugin-sitemap",
       options: {

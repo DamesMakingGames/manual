@@ -1,9 +1,9 @@
 ---
-title: "Reporting CoC Violations: For Members/Participants"
+title: "Reporting CoC Violations"
 date: 2019-03-07
 summary: How to report unacceptable behaviour within our community to DMG.
 path: /code-of-conduct/community
-tags: ["Code of Conduct"]
+tags: ["code-of-conduct", "community-manual"]
 ---
 
 If you witness or are subject to unacceptable behavior, or experience marginalizing or silencing behavior that limits your full participation in any DMG event, please talk to any of the following people:

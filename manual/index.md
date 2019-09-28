@@ -3,7 +3,6 @@ title: "Introduction"
 date: 2019-03-07
 summary: All about DMG!
 path: /index
-tags: ["Root"]
 ---
 
 # Introduction
