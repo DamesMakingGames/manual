@@ -8,7 +8,7 @@
           :to="tag.path"
           v-for="tag in $page.post.tags"
           :key="tag.id"
-          class="bg-gray-300 rounded-full px-4 py-2 mr-4 hover:bg-green-300"
+          class="tag bg-gray-200 rounded-full px-4 py-2 mr-4 hover:bg-gray-400 no-underline uppercase"
         >{{ tag.title }}</g-link>
       </div>
       <div class="markdown-body mb-8" v-html="$page.post.content" />
@@ -33,7 +33,11 @@ query Post ($path: String!) {
   }
 }
 </page-query>
-
+<style lang="postcss" scoped>
+.tag {
+  @apply text-gray-800 font-normal leading-normal no-underline;
+}
+</style>
 <script>
 export default {
   metaInfo() {

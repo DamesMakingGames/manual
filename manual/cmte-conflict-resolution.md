@@ -1,5 +1,5 @@
 ---
-title: "Conflict Resolution"
+title: "Conflict Resolution Committee"
 date: 2019-07-01
 summary: "Responsible for developing and maintaining conflict resolution policies and procedures, and responding to all incident reports."
 path: /conflict-resolution-committee

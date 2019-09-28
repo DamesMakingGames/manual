@@ -39,7 +39,7 @@ a:hover {
 
 nav .active {
   font-weight: bold;
-  @apply border-black border-b;
+  @apply border-purple-400 border-b-2;
 }
 
 .container-inner {

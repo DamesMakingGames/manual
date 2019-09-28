@@ -2,7 +2,7 @@
 title: "Responding to CoC Violations"
 date: 2019-03-07
 summary: How organizers respond to incident reports.
-path: /responding-to-coc-violations
+path: /code-of-conduct-responding
 tags: ["code-of-conduct", "organizers-manual"]
 ---
 

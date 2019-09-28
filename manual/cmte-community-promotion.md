@@ -1,5 +1,5 @@
 ---
-title: "Community Promotion"
+title: "Community Promotion Committee"
 date: 2019-07-01
 summary: "Promotes the work and accomplishments of our members on social media, through newsletters, and blog posts."
 path: /com-prom-committee

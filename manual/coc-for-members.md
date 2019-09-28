@@ -2,7 +2,7 @@
 title: "Reporting CoC Violations"
 date: 2019-03-07
 summary: How to report unacceptable behaviour within our community to DMG.
-path: /code-of-conduct/community
+path: /code-of-conduct-reporting
 tags: ["code-of-conduct", "community-manual"]
 ---
 
@@ -17,7 +17,9 @@ If you witness or are subject to unacceptable behavior, or experience marginaliz
   - Kaitlin Tremblay
   - Jen Costa
 
-You can also email [hr@dmg.to](mailto:hr@dmg.to) to reach the current chair \(or co-chairs\) of the conflict resolution committee.
+Email [hr@dmg.to](mailto:hr@dmg.to) to reach the current chair \(or co-chairs\) of the conflict resolution committee.
+
+To make an anonymous report, please use [this form](/report).
 
 Your conversation will be held in confidence.
 

@@ -1,5 +1,5 @@
 ---
-title: "Resource Development"
+title: "Resource Development Committee"
 date: 2019-07-01
 summary: "Supports DMG's goal of developing sustainable financial support through a balance of corporate and community partnerships and sponsorships, arts council funding and earned revenue."
 path: /resource-development-committee

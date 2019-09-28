@@ -3,7 +3,7 @@
     <header class="border-t-14 border-purple-700">
       <nav class="container mx-auto flex flex-wrap justify-between items-center py-8">
         <div>
-          <g-link to="/">DMG</g-link>
+          <g-link to="/">Manual Home</g-link>
         </div>
         <div class="block lg:hidden">
           <button
@@ -28,24 +28,18 @@
           </li>
 
           <li class="mr-8 mb-6 lg:mb-0">
-            <a
-              v-if="$route.path === '/'"
-              href="/#contact"
-              v-scroll-to="'#contact'"
-              class="text-copy-primary hover:text-gray-600"
-            >Contact</a>
-            <g-link v-else to="/#contact" class="text-copy-primary hover:text-gray-600">Contact</g-link>
+            <g-link to="/manual" class="text-copy-primary hover:text-purple-800">Index</g-link>
           </li>
           <li class="mr-8 mb-6 lg:mb-0">
             <g-link
               to="/tag/community-manual"
-              class="text-copy-primary hover:text-gray-600"
+              class="text-copy-primary hover:text-purple-800"
             >For Members</g-link>
           </li>
           <li>
             <g-link
               to="/tag/organizers-manual"
-              class="text-copy-primary hover:text-gray-600"
+              class="text-copy-primary hover:text-purple-800"
             >For Organizers</g-link>
           </li>
         </ul>
@@ -58,7 +52,7 @@
     <footer class="bg-purple-700 text-white">
       <div class="container mx-auto flex flex-col lg:flex-row items-center justify-between py-8">
         <div class="mb-8 lg:mb-0">
-          <div>Copyright 2019. All rights reserved.</div>
+          <div>&copy; 2019 Dames Making Games.</div>
           <div>
             <a href="/sitemap.xml" class="text-white hover:text-gray-400 font-normal">Sitemap</a>
           </div>

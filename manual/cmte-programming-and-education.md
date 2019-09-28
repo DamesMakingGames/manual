@@ -1,5 +1,5 @@
 ---
-title: "Programming & Education"
+title: "Programming & Education Committee"
 date: 2019-07-01
 summary: "Responsible for long-term planning and execution of all regular and major programming and events."
 path: /programming-committee

@@ -1,5 +1,5 @@
 ---
-title: "Membership Support & Community Outreach"
+title: "Membership Support & Community Outreach Committee"
 date: 2019-07-01
 summary: "Responsible for membership drives, services and support, volunteer pool management, recruitment and advocacy."
 path: /member-committee

@@ -2,48 +2,53 @@
   <Layout>
     <div class="container-inner mx-auto py-16">
       <div
-        v-for="post in $page.posts.edges"
-        :key="post.id"
-        class="post border-gray-400 border-b mb-12"
+        v-for="tag in $page.tags.edges"
+        :key="tag.id"
+        class="post border-gray-400 border-b pb-6 mb-6"
       >
         <h2 class="text-xl md:text-2xl font-bold mb-0">
-          <g-link :to="post.node.path" class="text-copy-primary">{{ post.node.title }}</g-link>
+          <g-link :to="tag.node.path">{{ tag.node.title }}</g-link>
         </h2>
-        <div class="text-lg mb-4">{{ post.node.summary }}</div>
+        <ul>
+          <li v-for="post in tag.node.belongsTo.edges" :key="post.id" class>
+            <g-link :to="post.node.path" class="post-link">{{ post.node.title }}</g-link>
+          </li>
+        </ul>
       </div>
-      <!-- end post -->
-
-      <pagination-posts
-        v-if="$page.posts.pageInfo.totalPages > 1"
-        base="/manual"
-        :totalPages="$page.posts.pageInfo.totalPages"
-        :currentPage="$page.posts.pageInfo.currentPage"
-      />
     </div>
   </Layout>
 </template>
 
 <page-query>
-query Posts ($page: Int) {
-  posts: allPost (sortBy: "date", order: DESC, perPage: 10, page: $page) @paginate {
-    totalCount
-    pageInfo {
-      totalPages
-      currentPage
-    }
+query Dato {
+  tags: allTag(sortBy: "title", order: ASC) {
     edges {
       node {
-        id
         title
-        date (format: "MMMM D, Y")
-        summary
         path
+        belongsTo(sortBy: "title", order: ASC) {
+          edges {
+            node {
+              ... on Post {
+                id
+                title
+                summary
+                path
+              }
+            }
+          }
+        }
       }
     }
   }
 }
-</page-query>
 
+</page-query>
+<style lang="postcss" scoped>
+.post-link {
+  @apply text-gray-800 font-normal leading-normal;
+}
+</style>
 <script>
 import PaginationPosts from "../components/PaginationPosts";
 

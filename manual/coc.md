@@ -42,7 +42,7 @@ If you are being – or have been at any point in the past – harassed by a mem
 
 ## How to Report a Violation or Discuss a Concern
 
-- [As an event attendee, participant or member](reporting-violations-of-the-coc/for-membersparticipants.md)
+- [Make a report](/manual/code-of-conduct-reporting)
 
 ## Enforcement
 
