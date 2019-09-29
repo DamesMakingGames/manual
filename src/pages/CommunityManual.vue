@@ -53,7 +53,7 @@ import PaginationPosts from "../components/PaginationPosts";
 
 export default {
   metaInfo: {
-    title: "Blog"
+    title: "Community Manual"
   },
   components: {
     PaginationPosts
