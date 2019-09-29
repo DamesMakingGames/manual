@@ -22,7 +22,13 @@ This committee meets on the **1st Tuesday of every month**
 Responsible for long-term planning and execution of all regular and major programming and events.
 
 - Organize upcoming programming by season
-- Manage the lifecycle of each event: - Proposal - Planning/Scheduling - Budgeting - Promotion - Leader Prep/Support - Day-of/Volunteers and mentors
+- Manage the lifecycle of each event
+  - Proposal
+  - Planning/Scheduling
+  - Budgeting
+  - Promotion
+  - Leader Prep/Support
+  - Day-of/Volunteers and mentors
 
 Plans 2 seasons ahead, determining topics, speakers, projects of interest to members and relevant to **yearly mandate.**
 
