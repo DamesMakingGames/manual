@@ -9,7 +9,7 @@
     </div>
     <!-- end hero -->
 
-    <div class="container-inner mx-auto">
+    <div class="container-inner mx-auto mb-24">
       <p class="text-lg sm:text-xl">
         While we welcome everyone to
         <em>almost</em> all of our events and our space…
@@ -31,9 +31,6 @@
           href="mailto:info@dmg.to"
         >info@dmg.to</a> or speak to an organizer.
       </p>
-
-      <p>→ Tips for new members</p>
-      <p>→ Make an anonymous report</p>
     </div>
   </Layout>
 </template>
