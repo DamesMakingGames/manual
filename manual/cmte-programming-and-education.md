@@ -1,12 +1,16 @@
 ---
 title: "Programming & Education Committee"
-date: 2019-07-01
+date: 2019-09-28
 summary: "Responsible for long-term planning and execution of all regular and major programming and events."
 path: /programming-committee
 tags: ["committees", "organizers-manual"]
 ---
 
 This committee is governed by the joint [Terms of Reference](/manual/joint-terms-of-reference).
+
+# Meetings
+
+This committee meets on the **1st Tuesday of every month**
 
 ## Current Members
 

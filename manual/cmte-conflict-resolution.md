@@ -10,6 +10,10 @@ This committee is governed by the joint [Terms of Reference](/manual/joint-terms
 
 Please also refer to the [Conflict Resolution Policy](manual/conflict-resolution-policy/).
 
+# Meetings
+
+This committee does not meet on a set schedule.
+
 ## Current Members
 
 - **Co-chairs:** Izzie Colpitts-Campbell & Santo Aveiro-Ojeda

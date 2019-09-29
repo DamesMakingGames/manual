@@ -1,6 +1,6 @@
 ---
 title: "Membership Support & Community Outreach Committee"
-date: 2019-07-01
+date: 2019-09-28
 summary: "Responsible for membership drives, services and support, volunteer pool management, recruitment and advocacy."
 path: /member-committee
 tags: ["committees", "organizers-manual"]
@@ -8,10 +8,14 @@ tags: ["committees", "organizers-manual"]
 
 This committee is governed by the joint [Terms of Reference](/manual/joint-terms-of-reference).
 
+# Meetings
+
+This committee meets on the **2nd Tuesday of every month**
+
 # Current Members
 
 - **Chair:** Kaitlin Tremblay
-- **Members:** Meagan Byrne, Natalie Zina Walschots, & Santo Aveiro-Ojeda
+- **Members:** Meagan Byrne, Natalie Zina Walschots, Len Predko, Sebastian Pines, Tabby Rose, Santo Aveiro-Ojeda
 
 # Responsibilities
 

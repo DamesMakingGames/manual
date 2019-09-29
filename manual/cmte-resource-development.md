@@ -1,6 +1,6 @@
 ---
 title: "Resource Development Committee"
-date: 2019-07-01
+date: 2019-09-28
 summary: "Supports DMG's goal of developing sustainable financial support through a balance of corporate and community partnerships and sponsorships, arts council funding and earned revenue."
 path: /resource-development-committee
 tags: ["committees", "organizers-manual"]
@@ -8,10 +8,14 @@ tags: ["committees", "organizers-manual"]
 
 This committee is governed by the joint [Terms of Reference](/manual/joint-terms-of-reference).
 
+# Meetings
+
+This committee meets on the **3rd Tuesday of every month**
+
 ## Current Members
 
 - **Chair:** Jayd Matyas
-- **Members:** Izzie Colpitts-Campbell, Jennie Robinson Faber, Natalie Zina-Walschots, Blanche Israël
+- **Members:** Izzie Colpitts-Campbell, Jennie Robinson Faber, Natalie Zina-Walschots, Blanche Israël, Rose Goodwin, Angelica Sales
 
 ## Responsibilities
 

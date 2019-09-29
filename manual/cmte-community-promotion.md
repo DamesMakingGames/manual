@@ -8,6 +8,10 @@ tags: ["committees", "organizers-manual"]
 
 This committee is governed by the joint [Terms of Reference](/manual/joint-terms-of-reference).
 
+# Meetings
+
+This committee meets on the **2nd Thursday of every month**
+
 ## Current Members
 
 - **Chair:** Natalie Zina Walschots
