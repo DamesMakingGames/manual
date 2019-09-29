@@ -8,7 +8,7 @@ tags: ["guidelines", "community-manual"]
 
 ### Who presents at DMG Speaker Socials?
 
-Any person who is or would qualify as a Class A member, with a project related to interactive/immersive media art, computer or analog games is invited to present a 10-15 minute talk and/or demo at our monthly social. While we welcome and include cis men in our space, we serve, prioritize and centre the gender marginalized, and invite those whose identities fall within that spectrum to speak at our socials.
+Any person who is or would qualify as a [Class A member](/manual/membership/), with a project related to interactive/immersive media art, computer or analog games is invited to present a 10-15 minute talk and/or demo at our monthly social. While we welcome and include cis men in our space, we serve, prioritize and centre the gender marginalized, and invite those whose identities fall within that spectrum to speak at our socials.
 
 You don't have to have created a polished, released game - even a sketch of an idea is interesting and we'd love to hear about it. We are interested all kinds of media artworks, computer and digital games – whether you're in a technical or non-technical role, a producer or support person, focused on music or art or narrative. Maybe you're not working on a game at all, but a writer, artist, musician producing work that game makers would be interested in or inspired by. We want you!
 
