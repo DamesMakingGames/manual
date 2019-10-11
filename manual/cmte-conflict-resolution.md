@@ -20,6 +20,8 @@ This committee does not meet on a set schedule.
 - **Members:** Jen Costa, Kaitlin Tremblay
 - **Ex-officio:** Jennie Robinson Faber
 
+[Email the committee](mailto:hr@dmg.to)
+
 ## Lines of Communication
 
 - To ensure transparency for current and future committee members, committee business must be communicated and documented (in the case of offline conversations/decisions) through:
