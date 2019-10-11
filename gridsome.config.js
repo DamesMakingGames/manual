@@ -3,7 +3,6 @@ const tailwind = require("tailwindcss");
 const purgecss = require("@fullhuman/postcss-purgecss");
 const postcssPlugins = [tailwind(), postcssNested];
 require("dotenv").config();
-const slugify = require("slugify");
 
 if (process.env.NODE_ENV === "production") postcssPlugins.push(purgecss());
 
