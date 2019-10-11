@@ -18,4 +18,5 @@ We are grateful to have the opportunity to work in the community, on this territ
 
 - [The Dish With One Spoon](https://www.indiantime.net/story/2010/08/05/cultural-corner/the-dish-with-one-spoon/7510.html)
 - [Whose land are you on?](https://www.whose.land/) This web-based app uses GIS technology to assist users in identifying Indigenous Nations, territories, and Indigenous communities across Canada.
+- [Beyond territorial acknowledgments](https://apihtawikosisan.com/2016/09/beyond-territorial-acknowledgments/)
 - [More Indigenous allyship resources](https://livinghyphen.ca/indigenous-allyship-resources)
