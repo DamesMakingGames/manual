@@ -1,8 +1,10 @@
 <template>
   <Layout>
     <div class="container-inner mx-auto my-16">
-      <h2 class="text-3xl font-bold mb-4 pb-4 border-b">{{ $page.tag.title }}</h2>
-      <div v-html="$page.tag.content" class="mb-8 pb-4" />
+      <h2 class="text-3xl font-bold mb-4 pb-4 border-b">
+        {{ $page.tag.title }}
+      </h2>
+      <div v-html="$page.tag.content" class="markdown-body mb-8 pb-4" />
 
       <div
         v-for="post in $page.tag.belongsTo.edges"
@@ -10,9 +12,10 @@
         class="post border-gray-400 border-b mb-12"
       >
         <h2 class="text-xl md:text-2xl font-bold mb-0">
-          <g-link :to="post.node.path" class="text-copy-primary">{{ post.node.title }}</g-link>
+          <g-link :to="post.node.path" class="text-copy-primary">{{
+            post.node.title
+          }}</g-link>
         </h2>
-
         <div class="md:text-lg mb-4">{{ post.node.summary }}</div>
       </div>
 
