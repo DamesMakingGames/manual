@@ -1,8 +1,6 @@
 <template>
   <Layout>
-    <div
-      class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-16"
-    >
+    <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-16">
       <div class="text-4xl font-bold w-full sm:w-3/5 text-center sm:text-left">
         <div class="leading-tight">DMG Toronto</div>
         <div class="text-purple-700 leading-tight">Member Manual</div>
@@ -18,12 +16,12 @@
         </p>
 
         <div class="bg-purple-700 text-white text-xl text-center p-6 my-6">
-          <strong
-            >DMG is for people who belong to gender identity groups that are
+          <strong>
+            DMG is for people who belong to gender identity groups that are
             systemically marginalized in tech and game spaces. We center queer,
             genderqueer, nonbinary, femme people, Two Spirit people, and trans
-            and cis women.</strong
-          >
+            and cis women.
+          </strong>
         </div>
 
         <p>
@@ -51,15 +49,16 @@
         </p>
         <p>
           <a
-            class="btn bg-red-500 hover:bg-red-700 text-white hover:text-white font-bold py-2 px-4 rounded my-12 block text-center mx-auto w-64 "
-            href="#"
-            >New member? Start here!</a
-          >
+            class="btn bg-red-500 hover:bg-red-700 text-white hover:text-white font-bold py-2 px-4 rounded my-12 block text-center mx-auto w-64"
+            href="/manual/index/"
+          >New member? Start here!</a>
         </p>
         <p>
           If you think of something that is missing from this handbook, or a way
           we could improve it, please send us an email at
-          <a href="mailto:info@dmg.to">info@dmg.to</a> or speak to an organizer.
+          <a
+            href="mailto:info@dmg.to"
+          >info@dmg.to</a> or speak to an organizer.
         </p>
       </div>
     </main>
