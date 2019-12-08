@@ -29,6 +29,7 @@ _For socials and workshops, this is likely the captain_
 - Help presenter test laptop connection with HDMI cable or Chromecast 15 minutes before start time, in case you need to hunt down a dongle or troubleshoot the projector.
 - Prep computers that will be loaned out with any required software/updates at least 1-2 hours prior to event, or in the days before.
 - Technical assistance with material/support instructor
+- Ensure participants are in the dedicated Slack channel for the event, if there is one, and that they have downloaded and installed any prerequisite software.
 
 #### **Door/registration**
 
@@ -56,8 +57,11 @@ _For socials and regular workshops, this is likely the captain_
 - For exhibitions, panels, or other more formal events, please [acknowledge that we are guests on Indigenous peoples' territory](/manual/info-territorial-acknowledgment).
 - Introduce yourself
   - "Hi, I'm \_\_\_\_\_\_\_\_\_ and I am a _director / member / volunteer_ with Dames Making Games." Make it personal and share something about yourself!
+- Housekeeping:
+  - Washrooms are on the second floor
+  - Wifi info is on the wall
 - Introduce DMG
-  - DMG is a nonprofit game arts organization founded in 2012, and provides work space, community and educational programming for queer, genderqueer, nonbinary and trans and cis women interested in all aspects of games – from art to programming, critique to play.
+  - DMG is a nonprofit game arts organization founded in 2012, and provides work space, community and educational programming for queer and gender-marginalized people interested in making and playing all kinds of games
   - Our workshops are free for members, so if you haven't joined already, check out dmg.to/membership for more information.
   - Our community's central values are respect, inclusion and safety. Please take some time to review our code of conduct if you haven't before or recently, and check out your member manual \(manual.dmg.to\) for information about how to report concerns and engage with our conflict resolution committee.
 - Mention one or two [upcoming events](https://dmg.to/events)
