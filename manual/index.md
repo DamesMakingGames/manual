@@ -6,6 +6,8 @@ path: /index
 tags: ["info", "community-manual"]
 ---
 
+> “But we are a play community, and playing the way we do, for fun, for everyone’s fun, in public – our fun little community becomes something else. To those who want to be seen as people who embrace life, embrace each other, embrace spontaneity, freedom, laughter; we are an alternative. An invitation. We play as if the game isn’t important. The rules aren’t important. As if _the only really important thing is each other_.” – Bernie DeKoven
+
 ## So, why are you here?
 
 People join DMG for lots of different reasons. Here are a few of the kinds of people who are part of this organization:
