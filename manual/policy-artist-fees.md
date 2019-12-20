@@ -26,6 +26,6 @@ A letter of agreement is provided, and payment is usually made via Interac withi
 
 _If you are not a Class A member of DMG or do not consider yourself to be a part of a marginalized identity group, or if you are comfortably able to afford it, we would be grateful if you opted to donate your time instead of accepting a fee._
 
-- When part of a regular jam showcase, social event or fundraiser where voluntary submissions are requested.
+\* When part of a regular jam showcase, social event or fundraiser where voluntary submissions are requested.
 
-** Curated means projects were selected by a DMG committee or representative, either solicited or unsolicited. For exhibits held outside our venue, the exhibition fee may vary depending on the venue and funding available–but generally meets CARFAC minimums if held in Canada.
+\*\* Curated means projects were selected by a DMG committee or representative, either solicited or unsolicited. For exhibits held outside our venue, the exhibition fee may vary depending on the venue and funding available–but generally meets CARFAC minimums if held in Canada.
