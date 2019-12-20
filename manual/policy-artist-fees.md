@@ -11,8 +11,8 @@ DMG recognizes the value of the time and experience of its members and guests, a
 | Type                                         | Length             | Fee           |
 | :------------------------------------------- | :----------------- | :------------ |
 | Tutorials                                    | &lt; 1 hour        | $75          |
-| Workshops (evenings)                         | &lt; up to 4 hours | $125         |
-| Workshops (weekends/afternoons)              | 4-7 hours          | $250         |
+| Workshops                                    | &lt; up to 4 hours | $125         |
+| Workshops                                    | 4-7 hours          | $250         |
 | Artist talks                                 | &lt; 1.5 hours     | $150         |
 | Panelist                                     | ~ 1 hour panel     | $75          |
 | Panel moderation                             | ~ 1 hour panel     | $95          |
