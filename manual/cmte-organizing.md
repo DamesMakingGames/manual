@@ -2,7 +2,7 @@
 title: "Organizing Committee"
 date: 2020-01-24
 summary: "Responsible for long-term planning and execution of all regular and major programming, events and fundraising."
-path: /programming-committee
+path: /organizing-committee
 tags: ["committees", "organizers-manual"]
 ---
 
