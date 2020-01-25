@@ -12,7 +12,7 @@ Please also refer to the [Conflict Resolution Policy](manual/conflict-resolution
 
 # Meetings
 
-This committee does not meet on a set schedule.
+This is an ad hoc committee that does not meet on a set schedule.
 
 ## Current Members
 
