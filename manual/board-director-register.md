@@ -12,8 +12,8 @@ tags: ["board", "organizers-manual"]
 | :---------------------- | :------------------------- | :----------- | :------------ |
 | Izzie Colpitts-Campbell | Chair, president           | Nov 27, 2014 | Nov 27, 2020  |
 | Santo Aveiro-Ojeda      | Vice chair, vice president | Feb 28, 2016 | Feb 28, 2020  |
-| Natalie Zina Walschots  | Treasurer                  | Jan 12, 2019 | Jan 12, 2020  |
-| Kaitlin Tremblay        | Secretary                  | Jan 12, 2019 | Jan 12, 2020  |
+| Natalie Zina Walschots  | Treasurer                  | Jan 12, 2019 | Jan 25, 2021  |
+| Kaitlin Tremblay        | Secretary                  | Jan 12, 2019 | Jan 25, 2021  |
 | Shel Kahn               |                            | Jan 25, 2020 | Jan 25, 2021  |
 | Jayd Matyas             |                            | Dec 12, 2018 | Jan 25, 2021  |
 | Soha El-Sabaawi         |                            | Nov 27, 2014 | Nov 27, 2020  |
