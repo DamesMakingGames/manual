@@ -61,7 +61,7 @@ _For socials and regular workshops, this is likely the captain_
   - Washrooms are on the second floor
   - Wifi info is on the wall
 - Introduce DMG
-  - DMG is a nonprofit game arts organization founded in 2012, and provides work space, community and educational programming for queer and gender-marginalized people interested in making and playing all kinds of games
+  - DMG is a nonprofit game arts organization founded in 2012, and provides work space, community and educational programming for **queer and gender-marginalized people** interested in making and playing all kinds of games
   - Our workshops are free for members, so if you haven't joined already, check out dmg.to/membership for more information.
   - Our community's central values are respect, inclusion and safety. Please take some time to review our code of conduct if you haven't before or recently, and check out your member manual \(manual.dmg.to\) for information about how to report concerns and engage with our conflict resolution committee.
 - Mention one or two [upcoming events](https://dmg.to/events)
