@@ -6,6 +6,8 @@ path: /conflict-resolution-procedures
 tags: ["procedures", "community-manual"]
 ---
 
+_This procedure is adapted and derived in part from work by Sheila Wilmot, Consultant for the MANO Conflict Resolution Working Group. Please see MANO's [Guides on HR, Governance, Equity and Conflict Resolution](https://mano-ramo.ca/guides-on-hr-governance-accessibility-equity-and-conflict-resolution/)_
+
 ## Informal complaints & dispute resolution
 
 1. An informal conflict resolution effort happens when a person seeks information, expresses their concern\(s\), engages the other party to the dispute in dialogue, and is able to resolve a dispute without recourse to a formal complaint.
@@ -20,7 +22,6 @@ tags: ["procedures", "community-manual"]
    When communicating in writing the complainant will note in their correspondence that they are making an informal complaint and are communicating in order to get help to resolve it.
 
 4. Responsible Contact People for Informal Complaint:
-   - **Staff** as Complainant – contact your immediate supervisor. If the respondent is the immediate supervisor, then contact the Executive Director \(ED\). If the immediate supervisor is both the ED and the Respondent, then staff will contact the staff liaison on the Conflict Resolution Committee
    - **ED** as Complainant – contact the Chair. If the Respondent is the Chair, then contact the staff liaison on the Conflict Resolution Sub-committee. If the Respondents involve multiple directors, the ED will contact the Internal Advisor.
    - **Director** as Complainant – contact the ED. If the respondent is the ED or Chair, then contact the Internal Advisor.
    - **Member of the organization, or member of the public** as Complainant - contact designated staff. If the Respondent is the designated staff, contact the ED. If the Respondent is the ED, then contact the Internal Advisor.
@@ -40,7 +41,6 @@ tags: ["procedures", "community-manual"]
    - Details of all prior efforts to achieve a resolution;
    - The specific outcome\(s\) the Complainant is seeking.
 3. Responsible Contact People for Formal Complaints:
-   - **Staff** as Complainant – contact your immediate supervisor. If the Respondent is the immediate supervisor, then contact the ED. If the immediate supervisor is both the ED and the Respondent, then staff will contact the staff liaison on the Conflict Resolution Sub-committee.
    - **ED** as Complainant – contact the Chair. If the respondent is the Chair, then contact staff liaison on the Conflict Resolution Sub-committee. If the respondents involve multiple directors, the ED will contact the Internal Advisor.
    - **Director** as Complainant – contact the ED. If the Respondent is the ED or Chair, then contact the Internal Advisor.
    - **Member of the organization, or member of the public** as Complainant - contact the ED. If the Respondent is the ED, then the member contacts the Internal Advisor.
@@ -78,10 +78,7 @@ tags: ["procedures", "community-manual"]
    - If both parties accept the offer of Informal Dispute Resolution, the Internal Advisor will arrange within one \(1\) week to facilitate the Informal Dispute Resolution process. This may include such processes as informal meetings, negotiation, facilitated meetings or shuttle or in-person mediation. The Internal Advisor may engage a mediator external to the organization.
    - Any agreed resolution of the complaint arrived at through Informal Dispute Resolution shall be documented in writing and signed by both Complainant and Respondent. These Minutes of Settlement shall be confidential, and items within strictly shared with the Internal Advisor, Staff, Board, legal counsel or other parties that need to know to carry out their organizational duties. Considerations when making an agreement should include:
 
-     - Is the agreement within the scope of the parties’ decision-making
-
-       powers in relation to their organizational role?
-
+     - Is the agreement within the scope of the parties’ decision-making powers in relation to their organizational role?
      - Is the agreement realistic and durable?
      - Does the agreement in any way compromise DMG?
      - Are there elements of the agreement that impact on the DMG’s operations, policies, reputation, external relationships or public perceptions?
@@ -92,5 +89,3 @@ tags: ["procedures", "community-manual"]
      - Directions on training;
      - Implementation of organizational practice and policy changes;
      - Referral to HR policies and procedures, Harassment and Discrimination policy and procedures, and/or OHSA-mandated policies and procedures for resolution.
-
-_This procedure is derived in part from work by Sheila Wilmot, Consultant for the MANO Conflict Resolution Working Group._
