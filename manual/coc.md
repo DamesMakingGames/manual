@@ -1,6 +1,6 @@
 ---
 title: "Code of Conduct"
-date: 2019-03-07
+date: 2019-12-07
 summary: DMG's Code of Conduct.
 path: /code-of-conduct
 tags: ["code-of-conduct", "community-manual"]
@@ -14,17 +14,16 @@ By becoming a member of Dames Making Games, or attending or hosting any DMG even
 
 We insist that everyone who uses the space remains mindful of, and takes responsibility for, their speech and behavior. This includes:
 
-- **Prioritizing** the expression of people who are marginalized in tech and game spaces, especially those whom DMG specifically serves: trans and cis women, genderqueer, nonbinary and Two Spirit people; people who are racialized, neurodiverse, and/or have disabilities.
-- Always acting out of respect and concern for the free expression of others.
+- **Prioritizing** the expression of people who are systemically marginalized in tech and game spaces, especially those who are gender-marginalized and/or racialized and upholding a safe, judgment-free, confidential space for that expression.
 - Actively listening to others and not dominating discussions.
 - Respecting physical and emotional boundaries. Always ask before touching, and check in before discussing topics that may be triggering.
-- Not making assumptions about identity, experiences, or preferred pronouns.
-- Not using words that are racist, sexist, homophobic, classist, transphobic, cissexist or ableist.
+- Not making assumptions about any individual's identity, experiences or pronouns.
+- Not using words that are racist, sexist, homophobic, classist, transphobic, cissexist, ageist or ableist.
 - Humbly accepting respectful correction \(or correcting yourself!\), keeping in mind that the impact of your words on other people is more important than your intent.
 
 ## Unacceptable Behavior
 
-We believe that failing to address dynamics of hierarchy, power and privilege alienates and further victimizes our members and prevents us from creating the safe equitable space we want.
+We believe that failing to address dynamics of hierarchy, power and privilege alienates and further victimizes our members and prevents us from creating the safe and equitable space we want.
 
 **We do not tolerate oppressive behavior, harassment, destructive behavior, or exclusionary actions.**
 
@@ -50,4 +49,4 @@ DMG is a **private space** and we reserve the right to remove any person at any 
 
 Anyone who engages in sustained or repeated ‬unacceptable behavior may be sanctioned ‬or‭ ‬permanent‭ly ‬expelled‭ ‬from‭ ‬the‭ ‬community‭ ‬without‭ ‬warning‭ \(‬and‭ ‬without‭ ‬refund‭ ‬in‭ ‬the‭ ‬case‭ ‬of‭ ‬a‭ ‬paid‭ ‬event‭\)‬.
 
-_By registering for or hosting an event, you agree to make your name visible to event organizers and facility staff. This visibility helps maintain the safety of our space. Anyone not registered for an event may be denied entry at the discretion of the event host._
+_By registering for or hosting an event, you agree to make your name visible to event organizers, volunteers and staff. This visibility helps maintain the safety of our space. Anyone not registered for an event may be denied entry at the discretion of the event host._
