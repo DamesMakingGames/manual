@@ -8,7 +8,7 @@ tags: ["committees", "organizers-manual"]
 
 This committee is governed by the joint [Terms of Reference](/manual/joint-terms-of-reference).
 
-Please also refer to the [Conflict Resolution Policy](manual/conflict-resolution-policy/).
+Please also refer to the [Conflict Resolution Policy](/manual/conflict-resolution-policy/).
 
 # Meetings
 
