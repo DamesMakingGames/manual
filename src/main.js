@@ -30,5 +30,9 @@ export default function(Vue, { router, head, isClient }) {
   });
   Vue.use(VueLuxon, {
     clientZone: "America/Toronto",
+    serverZone: "America/Toronto",
+    serverFormat: "iso",
+    clientZone: "locale",
+    clientFormat: "locale",
   });
 }

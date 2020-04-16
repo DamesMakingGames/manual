@@ -2,12 +2,13 @@
   <Layout>
     <div class="container-inner mx-auto py-16">
       <h1 class="text-4xl font-bold leading-tight">Current Projects</h1>
-
+      <p class="text-gray-600">
+        Last updated: {{ $context.today | luxon("LLL d, yyyy") }}
+      </p>
       <p class="mb-12">
         The following is a current list of projects managed by the
         <a href="/manual/organizing-committee/">Organizing Committee.</a>
       </p>
-      <p>Last updated: {{ $context.today | luxon:format('EEEE, MMMM d')}}</p>
 
       <div
         v-for="project in $page.projects.edges"
