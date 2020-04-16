@@ -12,6 +12,12 @@ This committee is governed by the joint [Terms of Reference](/manual/joint-terms
 
 The committee meets on the **1st Tuesday of every month** at DMG HQ (32 Lisgar St, 3rd floor). It is an open meeting; non-members and volunteers are invited to attend.
 
+_During the COVID-19 crisis, meetings are held on Zoom. To receive the meeting details, please register for the committee meeting at dmg.to_
+
+## Current Projects
+
+Please see [projects](/projects) for a list of programs and projects currently managed by this committee.
+
 ## Current Members
 
 - **Co-chairs:** Izzie Colpitts-Campbell, Jennie Robinson Faber

@@ -2,12 +2,25 @@ const fs = require("fs");
 const path = require("path");
 const pick = require("lodash.pick");
 const { pathPrefix } = require("./gridsome.config");
+const luxon = require("luxon");
 
+var DateTime = luxon.DateTime;
+let d = DateTime.local();
+let today = d.toISODate();
 module.exports = function(api, options) {
-  api.loadSource(store => {
+  api.createPages(({ createPage }) => {
+    createPage({
+      path: "/projects",
+      component: "./src/templates/Projects.vue",
+      context: {
+        today: today,
+      },
+    });
+  });
+  api.loadSource((store) => {
     const cleanedPathPrefix = `${
       pathPrefix
-        ? ["", ...pathPrefix.split("/").filter(dir => dir.length)].join("/")
+        ? ["", ...pathPrefix.split("/").filter((dir) => dir.length)].join("/")
         : ""
     }`;
 
@@ -17,14 +30,14 @@ module.exports = function(api, options) {
   api.beforeBuild(({ config, store }) => {
     const { collection } = store.getCollection("Post");
 
-    const posts = collection.data.map(post => {
+    const posts = collection.data.map((post) => {
       return pick(post, ["title", "path", "summary", "content"]);
     });
 
     const output = {
       dir: "./static",
       name: "search.json",
-      ...options.output
+      ...options.output,
     };
 
     const outputPath = path.resolve(process.cwd(), output.dir);

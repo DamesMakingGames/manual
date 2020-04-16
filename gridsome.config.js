@@ -12,7 +12,7 @@ module.exports = {
   siteUrl: "https://manual.dmg.to",
   templates: {
     Post: "/manual/:path",
-    Tag: "/tag/:id"
+    Tag: "/tag/:id",
   },
   plugins: [
     {
@@ -22,39 +22,42 @@ module.exports = {
         typeName: "Post",
         refs: {
           tags: {
-            typeName: "Tag"
-          }
-        }
-      }
+            typeName: "Tag",
+          },
+        },
+      },
     },
     {
       use: "@gridsome/source-filesystem",
       options: {
         path: "tags/**.md",
-        typeName: "Tag"
-      }
+        typeName: "Tag",
+      },
     },
-
     {
-      use: "@gridsome/plugin-sitemap",
+      use: "@gridsome/source-airtable",
       options: {
-        cacheTime: 600000 // default
-      }
-    }
+        apiKey: process.env.airtable_api_key,
+        baseId: process.env.airtable_base_id,
+        tableName: "Projects",
+        typeName: "Project",
+        select: {},
+      },
+    },
   ],
 
   transformers: {
     remark: {
       externalLinksTarget: "_blank",
       externalLinksRel: ["nofollow", "noopener", "noreferrer"],
-      anchorClassName: "icon icon-link"
-    }
+      anchorClassName: "icon icon-link",
+    },
   },
   css: {
     loaderOptions: {
       postcss: {
-        plugins: postcssPlugins
-      }
-    }
-  }
+        plugins: postcssPlugins,
+      },
+    },
+  },
 };
