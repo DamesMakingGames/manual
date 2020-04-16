@@ -3,6 +3,8 @@
 
 import DefaultLayout from "~/layouts/Default.vue";
 import VueScrollTo from "vue-scrollto";
+import VueLuxon from "vue-luxon";
+
 import VueFuse from "vue-fuse";
 
 export default function(Vue, { router, head, isClient }) {
@@ -11,19 +13,22 @@ export default function(Vue, { router, head, isClient }) {
 
   Vue.use(VueScrollTo, {
     duration: 500,
-    easing: "ease"
+    easing: "ease",
   });
 
   Vue.use(VueFuse);
 
   head.meta.push({
     name: "author",
-    content: "Dames Making Games"
+    content: "Dames Making Games",
   });
 
   head.link.push({
     rel: "stylesheet",
     href:
-      "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700|Roboto:400,400i,900&display=swap"
+      "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700|Roboto:400,400i,900&display=swap",
+  });
+  Vue.use(VueLuxon, {
+    clientZone: "America/Toronto",
   });
 }
