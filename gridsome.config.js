@@ -7,6 +7,8 @@ require("dotenv").config();
 if (process.env.NODE_ENV === "production") postcssPlugins.push(purgecss());
 
 module.exports = {
+  cacheBusting: false,
+
   siteName: "DMG Community Docs",
   siteDescription: "DMG member manual",
   siteUrl: "https://manual.dmg.to",
