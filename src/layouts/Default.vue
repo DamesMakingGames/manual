@@ -78,7 +78,7 @@
             <div>
               This work is licensed under a
               <a
-                class="text-white"
+                class="text-white hover:text-white"
                 rel="license"
                 href="http://creativecommons.org/licenses/by-nc-sa/4.0/"
                 >Creative Commons Attribution-NonCommercial-ShareAlike 4.0
@@ -111,7 +111,7 @@ export default {
       class: "text-gray-900 antialiased",
     },
     bodyAttrs: {
-      class: "font-mono text-base flex flex-col min-h-screen",
+      class: "text-base flex flex-col min-h-screen",
     },
   },
   components: {
