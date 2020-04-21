@@ -25,13 +25,14 @@ One of our goals is to remove obstacles to our members’ self-defined success, 
 Here are some good things to do if you are brand-new to DMG.
 
 1. Read through this member manual, and familiarize yourself with our [Code of Conduct](https://manual.dmg.to/code-of-conduct)
-2. Learn a little more [about our board and activities](https://dmg.to/about) and our [history, mission and vision](/manual/about-dmg/)
-3. Introduce yourself on our Slack channel 👋 (check your welcome email for the link)
-4. Register for an [upcoming event](https://dmg.to/events)
-5. Fill out your [profile](https://dmg.to/members/profile/edit) and [connect with fellow members](https://dmg.to/members/social)
-6. Consider [presenting at a speaker social](/manual/how-to-present-at-a-social/), or [running a workshop](https://dmg.to/applications/workshop-proposal) to share your skills
-7. Volunteer at an event (you can sign up to volunteer on any event registration page)
-8. [Join a committee](/tag/committees/)
+2. Check out our [Resources site](https://resources.dmg.to) with links to tools, job postings and more.
+3. Learn a little more [about our board and activities](https://dmg.to/about) and our [history, mission and vision](/manual/about-dmg/)
+4. Introduce yourself on our Slack channel 👋 (check your welcome email for the link)
+5. Register for an [upcoming event](https://dmg.to/events)
+6. Fill out your [profile](https://dmg.to/members/profile/edit) and [connect with fellow members](https://dmg.to/members/social)
+7. Consider [presenting at a speaker social](/manual/how-to-present-at-a-social/), or [running a workshop](https://dmg.to/applications/workshop-proposal) to share your skills
+8. Volunteer at an event (you can sign up to volunteer on any event registration page)
+9. [Join a committee](/tag/committees/)
 
 ### Benefits
 
