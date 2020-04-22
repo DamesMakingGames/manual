@@ -1,6 +1,8 @@
 <template>
   <Layout>
-    <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-16">
+    <div
+      class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-16"
+    >
       <div class="text-4xl font-bold w-full sm:w-3/5 text-center sm:text-left">
         <div class="leading-tight">DMG Toronto</div>
         <div class="text-purple-700 leading-tight">Member Manual</div>
@@ -31,6 +33,10 @@
           the living legacy of racism. We expect all of our members to do the
           same.
         </p>
+        <p>
+          Read more about expected behaviour in our
+          <a href="/manual/code-of-conduct/">Code of Conduct</a> section.
+        </p>
 
         <p>
           If these identities do not describe you, that doesn't mean you aren't
@@ -41,24 +47,29 @@
         </p>
 
         <p>
-          We acknowledge the work of creating a safer, more equitable space is
-          work that will never be complete, and that we're not perfect. The
-          terms we use to describe our experience are always changing, and we
-          are always listening and learning. We are eager to maintain and defend
-          the inclusivity of this community.
+          <b
+            >We know that the work of creating safer, more equitable spaces is
+            work that will never be complete</b
+          >, and that we're not perfect. The language we use to describe our
+          experiences are always changing, and we are always listening and
+          learning. We are eager listen, learn and acknowledge shortcomings in
+          order to maintain and defend the inclusivity of this community.
         </p>
         <p>
           <a
             class="btn bg-red-500 hover:bg-red-700 text-white hover:text-white font-bold py-2 px-4 rounded my-12 block text-center mx-auto w-64"
             href="/manual/index/"
-          >New member? Start here!</a>
+            >New member? Start here!</a
+          >
         </p>
         <p>
           If you think of something that is missing from this handbook, or a way
           we could improve it, please send us an email at
-          <a
-            href="mailto:info@dmg.to"
-          >info@dmg.to</a> or speak to an organizer.
+          <a href="mailto:info@dmg.to">info@dmg.to</a>, speak to an organizer,
+          or issue a
+          <a href="https://github.com/DamesMakingGames/manual"
+            >pull request on Github</a
+          >.
         </p>
       </div>
     </main>
@@ -68,7 +79,7 @@
 <script>
 export default {
   metaInfo: {
-    title: "Home"
-  }
+    title: "Home",
+  },
 };
 </script>
