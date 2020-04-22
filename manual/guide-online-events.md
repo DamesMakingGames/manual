@@ -1,14 +1,12 @@
 ---
-title: "Online Event Guide"
-date: 2020-04-07
-summary: A guide to running and participating in online events
+title: "Guide to Hosting and Attending Our Events on Zoom"
+date: 2020-04-22
+summary: A guide to running and participating in online events using Zoom
 path: /online-events-attendee-guide
 tags: ["guidelines", "community-manual"]
 ---
 
-# Platforms we use
-
-For now, most of our online events will be held over Zoom or Google Hangouts Meet. We've been using Zoom for the last couple of years for streaming workshops and classes. We're sensitive to privacy and security issues with this platform and are actively seeking open-source and free alternatives, including building our own.
+_For now, most of our online events will be held over Zoom, so this guide is written with that in mind. We've been using Zoom for the last couple of years for streaming workshops and classes. We're sensitive to privacy and security issues with this platform and are actively reviewing alternatives._
 
 ## Safety
 
