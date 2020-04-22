@@ -12,7 +12,9 @@ For now, most of our online events will be held over Zoom or Google Hangouts Mee
 
 ## Safety
 
-Anything you say or do in a Zoom meeting – from video to audio to the chat – could be recorded. Those recordings can then be shared with third parties who weren’t in the original meeting. This is a violation of our [code of conduct](/manual/code-of-conduct/) and we will remind all attendees to refrain from this behavior, which we consider harassing.
+Anything you say or do in a Zoom meeting – from video to audio to the chat – could be recorded without your consent by another attendee. Those recordings can then be shared with third parties who weren’t in the original meeting. This is a violation of our [code of conduct](/manual/code-of-conduct/) and we will remind all attendees to refrain from this behavior, which we consider harassing.
+
+We record workshops and classes from time to time. You will be informed of this prior to the event start.
 
 To prevent "Zoom bombing" we use waiting rooms and password protection on all event meetings hosted on Zoom. Should an event be targeted, our protocol is to end the meeting immediately, and start a new one. A link and password will be emailed to all attendees right away.
 
@@ -42,4 +44,4 @@ Some events will split up large groups for smaller conversations. The host will 
 
 ### Accessibility needs
 
-We want to create a fully accessible space online for all of our community members. If you require captioning, sign-language interpretation, or another accommodation, please [contact us](mailto:events@dmg.to) a week before your class or event. We are working towards being able to offer captioning by default at all of our online workshops.
+We want to create a fully accessible space online for all of our community members. If you require captioning, sign-language interpretation, or another accommodation, please [contact us](mailto:events@dmg.to) a week before your class or event. We hope to eventually be able to offer captioning by default at all of our online workshops.
