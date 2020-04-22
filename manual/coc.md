@@ -31,7 +31,7 @@ Examples of these actions include:
 
 **Oppressive behavior**: any conduct that demeans, marginalizes, rejects, threatens or harms anyone on the basis of identity, background, or ability. This includes publicly sympathizing with hate groups or endorsing political beliefs that contradict our values; deliberate misgendering, using inappropriate pronouns, or use of deadnames
 
-**Harassment**: deliberate intimidation; stalking; following; harassing photography or recording; disruption of events; aggressive, slanderous, derogatory, or threatening comments online or in person; repeated or sustained private communication after requests to cease; publication of non-harassing private communication including screenshots of direct messages and closed chats on Slack or Zoom; physical contact and simulated physical contact without consent or after a request to stop.
+**Harassment**: deliberate intimidation; stalking; following; harassing photography or recording; disruption of events; aggressive, slanderous, derogatory, or threatening comments online or in person; repeated or sustained private communication after requests to cease; publication of non-harassing private communication (including audio or video recordings and screenshots of direct messages and closed chats on Slack or Zoom); physical contact and simulated physical contact without consent or after a request to stop.
 
 **Destructive behavior**: sustained disruption of discussions online or off, damaging or altering any part of the building, inside or out, including furniture and equipment; damaging, altering or using other people's belongings, including personal computers and digital content or code created by other people \(unless you have their consent\).
 
