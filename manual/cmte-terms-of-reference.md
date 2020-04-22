@@ -11,7 +11,7 @@ tags: ["committees", "organizers-manual"]
 - The committee will be chaired by a non-staff member of the Board who reports to the Board regarding Committee business, decisions and activities.
 - The committee will be comprised ideally of 9-15 members, not including project/event volunteers who may attend meetings from time to time, board and staff members.
 - Members may be appointed to a committee by the chair or the board of directors.
-- All committee members should express a commitment to DMG's mandate and values. We highly recommend any new community members without a personal anti-oppression/anti-racism framework complete both introductory and advanced ARAO training with Toronto Hostels Training Centre and conflict resolution training through the Media Arts Network of Ontario or our Conflict Resolution committee. Any fees required for this training will be covered by DMG.
+- All committee members should express a commitment to DMG's mandate and values. We highly recommend any new community members without a personal anti-oppression/anti-racism framework complete both introductory and advanced anti-racism and anti-oppression training, conflict resolution training. Please contact the board for a list of current service providers. Any fees required for this training will be covered by DMG.
 
 ### Committee Chair
 

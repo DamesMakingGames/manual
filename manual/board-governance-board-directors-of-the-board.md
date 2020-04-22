@@ -11,6 +11,7 @@ All new and renewing Directors:
 - Agree to abide by the Directors' Code of Conduct
 - Sign a confidentiality agreement
 - Disclose all conflicts of interest
+- Complete anti-racism/anti-oppression training or affirm a personal ARAO framework
 
 These documents are stored with the corporate records and are available for inspection by any Member.
 
@@ -40,6 +41,19 @@ Always act in the best interest of DMG and become as reasonably informed as poss
 ### Avoid conflict of interest
 
 Act at all times in the best interest of and in accordance with the [Conflict of Interest Policy](/conflict-of-interest-policy.md)
+
+### Maintain a anti-oppressive framework
+
+All board members must either complete advanced anti-racism/anti-oppression training, or affirm a personal ARAO framework/practice. We ask board members to regularly revisit training and reflect on how they can personally confront oppressive systems of white supremacy and patriarchy.
+
+We make a collective commitment to hold each board member accountable for their own behavior and actions.
+
+_Resources_
+
+- [White Privilege: Unpacking the Invisible Knapsack](https://www.racialequitytools.org/resourcefiles/mcintosh.pdf) (PDF)
+- [ArtReach Anti-O and Equity Resources](https://www.artreach.org/antioandequityresources)
+- [Good Ancestor Podcast](http://laylafsaad.com/good-ancestor-podcast)
+- [Theory: Anti-Oppression](https://beautifultrouble.org/theory/anti-oppression/)
 
 ### Board Member Code of Conduct
 
