@@ -6,9 +6,9 @@ path: /how-to-tweet
 tags: ["guidelines", "community-manual"]
 ---
 
-Thanks so much for volunteering your time and energy! This is a handy, at-a-glance guide to livetweeting a DMG event, including workshops, Speaker’s Socials, or showcases.
+Thanks so much for volunteering your time and energy! This is a handy, at-a-glance guide to livetweeting a DMG event, including workshops, Speakers Socials, or showcases.
 
-## Accessing the Dames Making Games Twitter account:
+## Accessing the DMG Twitter account:
 
 The DMG official twitter account is [@DMGToronto](https://twitter.com/dmgtoronto). You can log in via Buffer from either a laptop or mobile device. The password will be provided to you by the [Community Promotion Committee](https://governance.dmg.to/committees/community-care.html) in advance of the event you are livetweeting.
 
