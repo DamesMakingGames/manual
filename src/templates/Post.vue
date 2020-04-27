@@ -2,15 +2,33 @@
   <Layout>
     <div class="container-inner mx-auto my-16">
       <header class="border-b border-gray-200 mb-12">
-        <a
-          :href="
-            `https://github.com/DamesMakingGames/manual/blob/master/${
-              $page.post.fileInfo.directory
-            }/${$page.post.fileInfo.name}${$page.post.fileInfo.extension}`
-          "
-          class="btn btn-purple float-right"
-          >Edit</a
-        >
+        <div class="edit flex float-right align-middle justify-center">
+          <a
+            :href="
+              `https://github.com/DamesMakingGames/manual/blob/master/${
+                $page.post.fileInfo.directory
+              }/${$page.post.fileInfo.name}${$page.post.fileInfo.extension}`
+            "
+            class="btn btn-purple"
+            >Edit</a
+          ><a class="p-2" href="/manual/how-to-edit-this-manual/"
+            ><svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="24"
+              height="24"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              class="feather feather-help-circle"
+            >
+              <circle cx="12" cy="12" r="10"></circle>
+              <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
+              <line x1="12" y1="17" x2="12.01" y2="17"></line></svg
+          ></a>
+        </div>
         <h1 class="text-4xl font-bold leading-tight">{{ $page.post.title }}</h1>
         <div class="flex my-8 text-sm">
           <g-link
