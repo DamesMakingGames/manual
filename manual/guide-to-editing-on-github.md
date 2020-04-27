@@ -6,7 +6,7 @@ path: /how-to-edit-this-manual
 tags: ["guidelines", "community-manual"]
 ---
 
-First, you will need to [create a free account](https://github.com/join/) for yourself on Github, or [sign in](https://github.com/login) if you already have one. You don't need to be a collaborator on the repository – anyone can suggest changes by _forking_ the project and creating a pull request. Don't worry if you don't know what that means… we'll walk you through it!
+First, you will need to [create a free account](https://github.com/join/) for yourself on Github, or [sign in](https://github.com/login) if you already have one. You don't need to be a collaborator on the repository – anyone can suggest changes by _forking_ the project and creating a pull request. Don't worry if you don't know what that means… we'll walk you through it! **Also, you can't break anything – that's the beauty of version control! Don't be shy. Play around, and ping us on Slack if you have any questions.**
 
 ---
 
