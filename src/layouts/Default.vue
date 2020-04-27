@@ -100,7 +100,17 @@ query {
   }
 }
 </static-query>
-
+<style lang="postcss">
+.btn {
+  @apply font-bold py-2 px-4 rounded;
+}
+.btn-purple {
+  @apply bg-purple-500 text-white;
+}
+.btn-purple:hover {
+  @apply bg-purple-700 text-white;
+}
+</style>
 <script>
 import SearchInput from "../components/SearchInput";
 
