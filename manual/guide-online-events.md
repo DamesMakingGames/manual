@@ -6,7 +6,7 @@ path: /online-events-attendee-guide
 tags: ["guidelines", "community-manual"]
 ---
 
-_For now, most of our online events will be held over Zoom, so this guide is written with that in mind. We've been using Zoom for the last couple of years for streaming workshops and classes. We're sensitive to privacy and security issues with this platform and are actively reviewing alternatives._
+_For now, most of our online events will be held over Zoom, so this guide is written with that in mind. We've been using Zoom for the last couple of years for streaming workshops and classes. We're sensitive to privacy and security issues with this platform and are actively reviewing alternatives, including building our own!_
 
 ## Safety
 
