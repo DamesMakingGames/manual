@@ -6,7 +6,7 @@ path: /how-to-tweet
 tags: ["guidelines", "community-manual"]
 ---
 
-Thanks so much for volunteering your time and energy! This is a handy, at-a-glance guide to livetweeting a DMG event, including workshops, Speakers Socials, or showcases.
+Thanks so much for volunteering your time and energy! This is a handy, at-a-glance guide to livetweeting a DMG event, including workshops, speakers socials, or showcases.
 
 ## Accessing the DMG Twitter account:
 
