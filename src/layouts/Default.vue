@@ -62,31 +62,69 @@
     </main>
     <footer class="bg-purple-700 text-white">
       <div
-        class="container mx-auto flex flex-col lg:flex-row items-center justify-between py-8"
+        class="container md:px-16 mx-auto flex flex-col lg:flex-row justify-between py-8"
       >
-        <div class="mb-8 lg:mb-0">
-          <div class="flex justify-center align-middle">
-            <a
-              class="mr-6"
-              rel="license"
-              href="http://creativecommons.org/licenses/by-nc-sa/4.0/"
-              ><img
-                alt="Creative Commons Licence"
-                style="border-width:0"
-                src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"/></a
-            ><br />
-            <div>
-              This work is licensed under a
+        <div class="w-auto md:w-1/3">
+          <ul>
+            <li class="mb-3">
+              <a href="https://dmg.to">dmg.to</a>
+            </li>
+            <li class="mb-3">
+              <a href="/tag/code-of-conduct/">Code of Conduct</a>
+            </li>
+            <li class="">
+              <a href="/manual/index/">New members</a>
+            </li>
+          </ul>
+        </div>
+        <div class="w-auto md:w-1/3">
+          <ul>
+            <li class="mb-3">
+              <a href="/manual/how-to-edit-this-manual/">Suggest Edits</a>
+            </li>
+            <li class="mb-3">
               <a
-                class="text-white hover:text-white"
-                rel="license"
-                href="http://creativecommons.org/licenses/by-nc-sa/4.0/"
-                >Creative Commons Attribution-NonCommercial-ShareAlike 4.0
-                International License</a
+                href="https://github.com/DamesMakingGames/manual/blob/master/README.md"
+                >README</a
               >
-            </div>
-            .
-          </div>
+              /
+              <a
+                href="https://github.com/DamesMakingGames/manual/blob/master/CONTRIBUTING.md"
+                >CONTRIBUTING</a
+              >
+            </li>
+            <li>
+              <a href="https://github.com/DamesMakingGames/manual"
+                >This project on GitHub</a
+              >
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="24"
+                height="24"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                class="feather feather-github in inline ml-2"
+              >
+                <path
+                  d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"
+                ></path>
+              </svg>
+            </li>
+          </ul>
+        </div>
+        <div class="w-auto md:w-1/3 text-right align-text-top align-top">
+          This work is licensed under a
+          <a
+            class="text-white hover:text-white"
+            rel="license"
+            href="http://creativecommons.org/licenses/by-nc-sa/4.0/"
+            >Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+            International License</a
+          >
         </div>
       </div>
     </footer>
@@ -101,6 +139,14 @@ query {
 }
 </static-query>
 <style lang="postcss">
+footer {
+  a {
+    @apply text-white font-normal underline;
+    &:hover {
+      @apply text-purple-200;
+    }
+  }
+}
 .btn {
   @apply font-bold py-2 px-4 rounded;
 }
