@@ -6,7 +6,7 @@ This document is reviewed and updated regularly by our board of directors, volun
 
 ## Contributing
 
-If you're interested in contributing to the manual, please see [contributing.md](contributing).
+If you're interested in contributing to the manual, please see [CONTRIBUTING](CONTRIBUTING.md).
 
 ## Development
 
