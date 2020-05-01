@@ -27,6 +27,18 @@ module.exports = {
             typeName: "Tag",
           },
         },
+        remark: {
+          plugins: [
+            "remark-footnotes",
+            [
+              "remark-toc",
+              {
+                heading: "Table of Contents",
+                maxDepth: 4,
+              },
+            ],
+          ],
+        },
       },
     },
     {

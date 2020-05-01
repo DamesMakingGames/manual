@@ -6,6 +6,8 @@ path: /how-to-run-a-game-jam
 tags: ["guidelines", "community-manual"]
 ---
 
+### Table of Contents
+
 Depending on the nature of the jam and experience level of the participants, more or less structure than outlined here may be appropriate. More guidance will be needed for first-timers, but you’ll want to find a balance between rigid checkpoints and allowing jammers to stay in their flow.
 
 This guide is geared towards a smaller group \(25-40 participants\) of mainly first-time gamemakers or first-time jammers.
@@ -21,8 +23,7 @@ This guide is geared towards a smaller group \(25-40 participants\) of mainly fi
 - Reliable wi-fi
 - Loaner computer availability
 - A shared USB stick for backing up games throughout the weekend \(jammers should be encouraged to back up to their own devices/services\)
-- Focusing on providing a fun, affirming and productive event rather than completed games or other specific output
-￼
+- Focusing on providing a fun, affirming and productive event rather than completed games or other specific output ￼
 
 ## Pre-Jam
 
@@ -49,21 +50,20 @@ This guide is geared towards a smaller group \(25-40 participants\) of mainly fi
 
 _30 minutes, e.g. 9-9:30 a.m._
 
-* Give people time to arrive, have coffee, chat and get settled in before opening remarks.
-* Greet each participant and find out a little about their goals and ideas for the jam. Check in with each person to make sure they’ve downloaded and installed any software needed so they can hit the ground running (if the jam is specific to a tool).
-* Have people wear name badges with pronouns.
-* If a photographer or videographer will be present, be sure to request consent from each participant. Remind participants to ask for permission before tagging others on social media.
-* You may want to play music in the space to help people feel more comfortable chatting.
-
+- Give people time to arrive, have coffee, chat and get settled in before opening remarks.
+- Greet each participant and find out a little about their goals and ideas for the jam. Check in with each person to make sure they’ve downloaded and installed any software needed so they can hit the ground running (if the jam is specific to a tool).
+- Have people wear name badges with pronouns.
+- If a photographer or videographer will be present, be sure to request consent from each participant. Remind participants to ask for permission before tagging others on social media.
+- You may want to play music in the space to help people feel more comfortable chatting.
 
 ### Kick off
 
 _30 minutes, e.g. 9:30-10 a.m._
 
-* Introduce the coordinator\(s\) and all volunteers/mentors. These individuals should wear name badges and also state their pronouns.
-* Set expectations by presenting the schedule, including any lunch/dinner times, workshops, presentations or check-ins.
-* Post the code of conduct on a wall or in your group chat. Review the procedure for reporting any issues or violations in confidence.
-* Let jammers know they can work solo or in groups, and encourage them to chat with fellow participants about their skills, abilities and goals for the jam to find a good fit. Encourage jammers to talk to volunteers/coordinator if they’re feeling frustrated, stuck or confused as they’re all there solely to help.
+- Introduce the coordinator\(s\) and all volunteers/mentors. These individuals should wear name badges and also state their pronouns.
+- Set expectations by presenting the schedule, including any lunch/dinner times, workshops, presentations or check-ins.
+- Post the code of conduct on a wall or in your group chat. Review the procedure for reporting any issues or violations in confidence.
+- Let jammers know they can work solo or in groups, and encourage them to chat with fellow participants about their skills, abilities and goals for the jam to find a good fit. Encourage jammers to talk to volunteers/coordinator if they’re feeling frustrated, stuck or confused as they’re all there solely to help.
 
 ### Talk\(s\)
 
@@ -71,7 +71,7 @@ _1 hour, e.g. 10 a.m.-11 a.m._
 
 If running a tutorial or workshop during the jam \(great for first-timers\), do it at the beginning of the jam and keep it brief and tailored to the participants. Suggested topics for jams geared toward first-timers:
 
-- "How to Jam":https://dmg.to/blog/34 \(include tips, survey of jam games for context and inspiration\)
+- [How to Jam](https://dmg.to/blog/34) \(include tips, survey of jam games for context and inspiration\)
 - Software tutorial \(walk through modifying an existing game - good if everyone’s using the same tool, such as Playmaker or Twine\)
 - Game design concepts \(higher level, good if participants are focusing on a theme rather than tool or format, or largely from another artistic discipline\)
 
@@ -85,7 +85,7 @@ This will be a quiet time as everyone settles into their workflow and refines th
 
 1 hour, e.g. 12 p.m.-1 p.m.
 
-If catering is being provided and space allows, set up in a space away from where jammers are working and encourage people to take a break and chat with each other about what they’re working on. You’ll need volunteers to help out with setting up and cleaning up food. Be sure that any food ordered to accommodate specific dietary requirements is clearly labeled, and that the  participants know that it is available for them.
+If catering is being provided and space allows, set up in a space away from where jammers are working and encourage people to take a break and chat with each other about what they’re working on. You’ll need volunteers to help out with setting up and cleaning up food. Be sure that any food ordered to accommodate specific dietary requirements is clearly labeled, and that the participants know that it is available for them.
 
 ### Afternoon
 
@@ -126,8 +126,8 @@ Energy will vary wildly at the beginning of the day. Some people will be excited
 
 Some tips:
 
-- *Switching tools very rarely solves a game design problem.* It’s tempting to do if you’re having trouble getting your game to do something that seems simple, but comes with its own set of unknowns and issues. Strongly advise against this. Instead, think about the problem from a play/design point of view and ask for input from mentors and other jammers if they're available. Describe the design problem, rather than the technical issue.
-- *Scrapping an idea and starting from scratch doesn’t accomplish much.* Remember, the jam is about the process, so any idea will do. If you don’t like your idea anymore, that’s ok! After today you can abandon it. Instead, try swapping out one element, such as your art or writing, for something completely different. In other projects, abandoning an idea is often good advice, but in a jam, capitalizing on momentum and the work you've already done to complete something small will yield great rewards.
+- _Switching tools very rarely solves a game design problem._ It’s tempting to do if you’re having trouble getting your game to do something that seems simple, but comes with its own set of unknowns and issues. Strongly advise against this. Instead, think about the problem from a play/design point of view and ask for input from mentors and other jammers if they're available. Describe the design problem, rather than the technical issue.
+- _Scrapping an idea and starting from scratch doesn’t accomplish much._ Remember, the jam is about the process, so any idea will do. If you don’t like your idea anymore, that’s ok! After today you can abandon it. Instead, try swapping out one element, such as your art or writing, for something completely different. In other projects, abandoning an idea is often good advice, but in a jam, capitalizing on momentum and the work you've already done to complete something small will yield great rewards.
 - Overwhelmed by the work you have left to do? Cutting features, editing and paring down is a great idea! In fact, remove as much as you can - the simpler your goals, the more likely you’ll end up with something small that you’re proud of. This is something amateur and professional game developers do all the time and it’s a valuable design skill.
 
 ### Lunch
@@ -180,7 +180,7 @@ Send people home with a token if you can – we do jam t-shirts. A badge, pin o
 
 One of the biggest problems you’ll encounter is frustration arising from a participant realizing they can’t make the game they wanted to with the time, resources and skills they have available at the jam. Counter this by reminding them that this is NOT the time to try to make their magnum opus, their big grand idea. This is practice and it's really valuable. Their future magnum opus will benefit greatly from this experience. This jam is about the process of working within specific constraints and achieving a contained, precise goal.
 
-*Personal goals trump themes, experience trumps output, understanding is more important than productivity.*
+_Personal goals trump themes, experience trumps output, understanding is more important than productivity._
 
 ### Minimizing interruptions
 

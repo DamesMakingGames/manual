@@ -21,6 +21,8 @@
     "luxon": "^1.23.0",
     "minimist": "^0.2.1",
     "postcss-nested": "^4.2.1",
+    "remark-footnotes": "^1.0.0",
+    "remark-toc": "^7.0.0",
     "slugify": "^1.4.0",
     "vue-fuse": "^2.2.1",
     "vue-luxon": "^0.7.3",

@@ -6,6 +6,8 @@ path: /running-an-event
 tags: ["guidelines", "community-manual"]
 ---
 
+### Table of Contents
+
 ## Prep
 
 A few days before an event, the assigned captain should:

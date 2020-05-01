@@ -6,11 +6,18 @@ path: /how-to-edit-this-manual
 tags: ["guidelines", "community-manual"]
 ---
 
-First, you will need to [create a free account](https://github.com/join/) for yourself on Github, or [sign in](https://github.com/login) if you already have one. You don't need to be a collaborator on the repository – anyone can suggest changes by _forking_ the project and creating a pull request. Don't worry if you don't know what that means… we'll walk you through it!
+First, you will need to [create a free account](https://github.com/join/) for yourself on Github, or [sign in](https://github.com/login) if you already have one. You don't need to be a collaborator on the **repository**[^1] – anyone can suggest changes by **forking**[^2] the project and creating a pull request.
+
+[^1]: You can think of the "repository" as the project folder on GitHub.
+[^2]: "Forking" a repository creates a personal copy of it, allowing you to freely make changes to a project without affecting the original until we're ready to integrate your proposed edits.
+
+Don't worry if you don't know what that means… we'll walk you through it! There is also a glossary at the end of this document.
+
+### Table of Contents
 
 ---
 
-### Open the file on GitHub
+## Open the file on GitHub
 
 Once you're logged in, come back here to the [manual](https://manual.dmg.to), and **click the "Edit" button** on the page you'd like to change.
 
@@ -18,7 +25,7 @@ Once you're logged in, come back here to the [manual](https://manual.dmg.to), an
 
 ---
 
-### Open the editor on GitHub
+## Open the editor on GitHub
 
 This will take you to the file on GitHub. From there, **click the pencil icon** on the right hand side of the file information to fork the project and edit the file.
 
@@ -26,7 +33,7 @@ This will take you to the file on GitHub. From there, **click the pencil icon** 
 
 ---
 
-### Edit the document
+## Edit the document
 
 Next, make your changes in the text area. The files use Markdown, which is a simple markup language to create headers, bold and italic text, links and more. You can [learn more about using it here](https://daringfireball.net/projects/markdown/syntax).
 
@@ -34,7 +41,7 @@ Next, make your changes in the text area. The files use Markdown, which is a sim
 
 ---
 
-### Save your edits
+## Save your edits
 
 Once you're done, **click the "Propose file change" button** at the very bottom of the page.
 
@@ -42,7 +49,7 @@ Once you're done, **click the "Propose file change" button** at the very bottom 
 
 ---
 
-### Create a pull request
+## Create a pull request
 
 On the next screen, **click the "Create pull request" button**. Some checks will run on this page to make sure your suggestions can be merged without issue. If you've edited more than one file on this branch, they'll be bundled up here into one request. In most cases, you'll probably only be suggesting edits to one file at a time.
 
@@ -53,3 +60,5 @@ The next screen will review your messages from your edit commit and submit it to
 ![](/images/how-to_1.png)
 
 And that's it! We'll be alerted to your suggested change, and will contact you through the comments section on your pull request if we have any questions or remarks. We appreciate you taking the time and effort to contribute to our community documentation!
+
+## Glossary

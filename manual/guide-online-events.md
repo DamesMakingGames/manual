@@ -6,6 +6,8 @@ path: /online-events-attendee-guide
 tags: ["guidelines", "community-manual"]
 ---
 
+### Table of Contents
+
 _For now, most of our online events will be held over Zoom, so this guide is written with that in mind. We've been using Zoom for the last couple of years for streaming workshops and classes. We're sensitive to privacy and security issues with this platform and are actively reviewing alternatives._
 
 ## Safety
@@ -58,30 +60,30 @@ Finally, if using the Waiting Room feautre, keep an eye on participants waiting 
 
 ## For Attendees
 
-## Logistics
+### Logistics
 
 Please arrive a few minutes in advance of the start time so that we can start on time. Some sessions have a waiting room – you'll be granted access momentarily.
 
-### Audio
+#### Audio
 
 All events will start with all attendees set to mute to keep ambient sound down as the host begins the event. Depending on the format of the event, you may be able to unmute yourself to speak or ask a question at any time.
 
-### Video
+#### Video
 
 You can join any event with your video turned off, or turn it off at any time during the event.
 
-### Name
+#### Name
 
 We encourage attendees to set their display name to the name you'd ask someone to call you at an in-person event, and to add your pronouns if you wish. Our policy is to default to gender neutral pronouns in case we don't know yours.
 
-### Chat
+#### Chat
 
 Please join the Slack channel for the event for ongoing conversation, and feel free to use the built-in chat in the meeting tool for questions and introductions during the event.
 
-### Breakout Rooms
+#### Breakout Rooms
 
 Some events will split up large groups for smaller conversations. The host will assign you to a room automatically and bring everyone back together once the breakout portion is done. The host will let everyone know the format of the breakout, but generally, do not feel obligated to chat with others in your group. Take it as a moment for a bio break if you need to!
 
-### Accessibility needs
+#### Accessibility needs
 
 We want to create a fully accessible space online for all of our community members. If you require captioning, sign-language interpretation, or another accommodation, please [contact us](mailto:events@dmg.to) a week before your class or event. We hope to eventually be able to offer captioning by default at all of our online workshops.
