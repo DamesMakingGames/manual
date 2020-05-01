@@ -64,7 +64,7 @@
       <div
         class="container md:px-16 mx-auto flex flex-col lg:flex-row justify-between py-8"
       >
-        <div class="w-auto md:w-1/3">
+        <div class="w-full md:w-1/3">
           <ul>
             <li class="mb-3">
               <a href="https://dmg.to">dmg.to</a>
@@ -77,7 +77,7 @@
             </li>
           </ul>
         </div>
-        <div class="w-auto md:w-1/3">
+        <div class="w-full md:w-1/3">
           <ul>
             <li class="mb-3">
               <a href="/manual/how-to-edit-this-manual/">Suggest Edits</a>
@@ -116,7 +116,7 @@
             </li>
           </ul>
         </div>
-        <div class="w-auto md:w-1/3 text-right align-text-top align-top">
+        <div class="w-full md:w-1/3 md:text-right align-text-top align-top">
           This work is licensed under a
           <a
             class="text-white hover:text-white"
