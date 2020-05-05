@@ -18,13 +18,13 @@
         <h2 class="text-xl md:text-2xl font-bold mb-0">
           {{ project.node.name }}
         </h2>
-        <!-- <div v-html="project.node.notes" class="markdown-body mb-2 pb-4" />
-        {{
+        <div v-html="project.node.notes" class="markdown-body mb-2 pb-4" />
+        <!-- {{
           project.node.end && project.node.start
             ? `starts ${project.node.start}`
             : ""
-        }}
-      </div> -->
+        }} -->
+      </div>
     </div>
   </Layout>
 </template>
