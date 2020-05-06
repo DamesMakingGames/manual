@@ -53,6 +53,8 @@ If you are being – or have been at any point in the past – harassed by a mem
 
 Anyone‭ ‬asked‭ ‬to‭ ‬stop‭ ‬unacceptable‭ ‬behavior‭ ‬is‭ ‬expected‭ ‬to‭ ‬comply‭ ‬immediately.
 
+This Code of Conduct extends to both in-person spaces and events as well as digital/virtual gatherings. Everyone is expected to comply with and uphold this code of conduct in all digital interactions, including DMs.  
+
 The DMG workshop, studio and online channels (including but not limited to our Slack team, hosted Zoom events and Google Hangouts) are **private spaces**, and we reserve the right to remove any person at any time for any reason. We are ultimately responsible to victims and the DMG community.
 
 Anyone who engages in sustained or repeated ‬unacceptable behavior may be sanctioned ‬or‭ ‬permanent‭ly ‬expelled‭ ‬from‭ ‬the‭ ‬community‭ ‬without‭ ‬warning‭ \(‬and‭ ‬without‭ ‬refund‭ ‬in‭ ‬the‭ ‬case‭ ‬of‭ ‬a‭ ‬paid‭ ‬event‭\)‬.
