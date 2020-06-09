@@ -68,10 +68,10 @@
                   </svg>
                 </div>
               </div>
-              <div
+              <!-- <div
                 class="mt-2 mb-12 text-sm"
                 v-html="options[selected].recipientMessage"
-              />
+              /> -->
               <div class="w-full mb-12">
                 <label class="block text-copy-primary mb-2" for="message"
                   >Message</label
