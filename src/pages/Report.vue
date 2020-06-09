@@ -116,7 +116,7 @@ export default {
     return {
       submitted: false,
       formData: {},
-      selected: "0",
+      selected: "1",
       recipientMessage:
         "Your report will be emailed to all members of the current <a href='/manual/conflict-resolution-committee/'>CR committee</a>.",
       options: [
