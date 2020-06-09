@@ -155,7 +155,7 @@ export default {
         body: this.encode({
           "form-name": e.target
             .querySelector("#form-name")
-            .getAttribute("name"),
+            .getAttribute("value"),
           ...this.formData,
         }),
       })
