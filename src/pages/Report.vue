@@ -40,6 +40,7 @@
               <input
                 type="hidden"
                 name="form-name"
+                id="form-name"
                 :value="`manual-submission-${options[selected].value}`"
               />
               <label class="block text-copy-primary mb-2" for="message"
@@ -152,7 +153,9 @@ export default {
         method: "POST",
         headers: { "Content-Type": "application/x-www-form-urlencoded" },
         body: this.encode({
-          "form-name": e.target.getAttribute("name"),
+          "form-name": e.target
+            .querySelector("#form-name")
+            .getAttribute("name"),
           ...this.formData,
         }),
       })
