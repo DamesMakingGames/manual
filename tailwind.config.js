@@ -1,16 +1,33 @@
 module.exports = {
+  purge: {
+    enabled: true,
+    content: ["./src/**/*.vue"],
+    options: {
+      whitelist: [
+        "body",
+        "html",
+        "img",
+        "a",
+        "g-image",
+        "g-image--lazy",
+        "g-image--loaded",
+        "antialiased",
+      ],
+      whitelistPatterns: [/^font-/],
+    },
+  },
   theme: {
     extend: {
       spacing: {
         "80": "20rem",
-        "108": "27rem"
+        "108": "27rem",
       },
       borderWidth: {
-        "14": "14px"
-      }
+        "14": "14px",
+      },
     },
     container: {
-      padding: "1rem"
+      padding: "1rem",
     },
 
     fontFamily: {
@@ -26,7 +43,7 @@ module.exports = {
         '"Apple Color Emoji"',
         '"Segoe UI Emoji"',
         '"Segoe UI Symbol"',
-        '"Noto Color Emoji"'
+        '"Noto Color Emoji"',
       ],
       serif: ["Georgia", "Cambria", '"Times New Roman"', "Times", "serif"],
       mono: [
@@ -35,14 +52,14 @@ module.exports = {
         "Consolas",
         '"Liberation Mono"',
         '"Courier New"',
-        "monospace"
-      ]
-    }
+        "monospace",
+      ],
+    },
   },
   variants: {
     // Some useful comment
   },
   plugins: [
     // Some useful comment
-  ]
+  ],
 };
