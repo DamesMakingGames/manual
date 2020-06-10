@@ -31,7 +31,7 @@ Examples of these actions include:
 
 **Oppressive behavior**: any conduct that demeans, marginalizes, rejects, threatens or harms anyone on the basis of identity, background, or ability. This includes publicly sympathizing with hate groups or endorsing political beliefs that contradict our values; deliberate misgendering, using inappropriate pronouns, or use of deadnames
 
-**Harassment**: deliberate intimidation; stalking; following; harassing photography or recording; disruption of events; aggressive, slanderous, derogatory, or threatening comments online or in person; repeated or sustained private communication after requests to cease; publication of non-harassing private communication (including audio or video recordings and screenshots of direct messages and closed chats on Slack or Zoom); physical contact and simulated physical contact without consent or after a request to stop.
+**Harassment**: deliberate intimidation; stalking; following; harassing photography or recording; disruption of events; aggressive, slanderous, derogatory, or threatening comments online or in person; repeated or sustained private communication after requests to cease; publication of non-harassing private communication (including audio or video recordings and screenshots of direct messages and closed chats on Slack or Google Meet); physical contact and simulated physical contact without consent or after a request to stop.
 
 **Destructive behavior**: sustained disruption of discussions online or off, damaging or altering any part of the building, inside or out, including furniture and equipment; damaging, altering or using other people's belongings, including personal computers and digital content or code created by other people \(unless you have their consent\).
 
@@ -43,7 +43,7 @@ If you are being – or have been at any point in the past – harassed by a mem
 
 - On Slack, send a direct message to any admin:
   - Admins as of the last edit date of this document: @izzie, @jennie, @jayd, @jen, @orbwitch, @kait, @snaxwell, @meaganb, @nataliezed, @santo, @portablecity
-- On Zoom, send a private message to the meeting/event host
+- Send a private message to the meeting/event host through the meeting platform
 - Email [hr@dmg.to](mailto:hr@dmg.to) to reach the current chair \(or co-chairs\) of the conflict resolution committee.
 - To make an anonymous report, please use [this form](/report).
 
@@ -53,9 +53,9 @@ If you are being – or have been at any point in the past – harassed by a mem
 
 Anyone‭ ‬asked‭ ‬to‭ ‬stop‭ ‬unacceptable‭ ‬behavior‭ ‬is‭ ‬expected‭ ‬to‭ ‬comply‭ ‬immediately.
 
-This Code of Conduct extends to both in-person spaces and events as well as digital/virtual gatherings. Everyone is expected to comply with and uphold this code of conduct in all digital interactions, including DMs.  
+This Code of Conduct extends to both in-person spaces and events as well as digital/virtual gatherings. Everyone is expected to comply with and uphold this code of conduct in all digital interactions, including DMs.
 
-The DMG workshop, studio and online channels (including but not limited to our Slack team, hosted Zoom events and Google Hangouts) are **private spaces**, and we reserve the right to remove any person at any time for any reason. We are ultimately responsible to victims and the DMG community.
+The DMG workshop, studio and online channels (including but not limited to our Slack team, Google Meet events, and Discord server) are **private spaces**, and we reserve the right to remove any person at any time for any reason. We are ultimately responsible to victims and the DMG community.
 
 Anyone who engages in sustained or repeated ‬unacceptable behavior may be sanctioned ‬or‭ ‬permanent‭ly ‬expelled‭ ‬from‭ ‬the‭ ‬community‭ ‬without‭ ‬warning‭ \(‬and‭ ‬without‭ ‬refund‭ ‬in‭ ‬the‭ ‬case‭ ‬of‭ ‬a‭ ‬paid‭ ‬event‭\)‬.
 

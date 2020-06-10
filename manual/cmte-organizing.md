@@ -12,7 +12,7 @@ This committee is governed by the joint [Terms of Reference](/manual/joint-terms
 
 The committee meets on the **1st Tuesday of every month** at DMG HQ (32 Lisgar St, 3rd floor). It is an open meeting; non-members and volunteers are invited to attend.
 
-_During the COVID-19 crisis, meetings are held on Zoom. To receive the meeting details, please register for the committee meeting at dmg.to_
+_During the COVID-19 crisis, meetings are held online. To receive the meeting details, please register for the committee meeting at dmg.to_
 
 ## Current Projects
 
