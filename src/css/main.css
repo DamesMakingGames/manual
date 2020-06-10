@@ -1,7 +1,5 @@
 @tailwind base;
 
-
-
 /* purgecss start ignore */
 
 h1,
@@ -12,17 +10,31 @@ h4 {
 }
 
 main {
-  a:not(.btn) {
+  p a:not(.btn) {
     @apply text-purple-700 underline;
   }
 
-  a:hover:not(.btn) {
+  p a:hover:not(.btn) {
     @apply text-purple-800;
   }
 
   p {
     @apply mb-3;
   }
+}
+
+.tag {
+  @apply text-gray-800 font-normal leading-normal no-underline;
+}
+
+
+
+.markdown-body li>p,
+.markdown-body li p,
+main li p {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  margin: 0 !important;
 }
 
 .content-wrapper {

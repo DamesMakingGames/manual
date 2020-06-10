@@ -606,7 +606,7 @@
 }
 
 .markdown-body li>p {
-  margin-top: 16px;
+  /* margin-top: 16px; */
 }
 
 .markdown-body li+li {
@@ -938,6 +938,14 @@
 
 .markdown-body .pl-12 {
   padding-left: 128px !important;
+}
+
+#table-of-contents {
+  @apply mb-2;
+
+  &+ul {
+    @apply mt-0 list-none
+  }
 }
 
 /* purgecss end ignore */
