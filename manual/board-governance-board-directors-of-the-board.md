@@ -1,6 +1,6 @@
 ---
 title: "The Board of Directors"
-date: 2017-06-01
+date: 2020-07-03
 summary: Information about the responsibilities and role of of the board.
 path: /board-of-directors
 tags: ["governance", "board", "organizers-manual"]
@@ -40,7 +40,7 @@ Always act in the best interest of DMG and become as reasonably informed as poss
 
 ### Avoid conflict of interest
 
-Act at all times in the best interest of and in accordance with the [Conflict of Interest Policy](/conflict-of-interest-policy.md)
+Act at all times in the best interest of and in accordance with the [Conflict of Interest Policy](/manual/conflict-of-interest-policy/)
 
 ### Maintain a anti-oppressive framework
 
