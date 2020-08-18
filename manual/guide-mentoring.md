@@ -8,7 +8,7 @@ tags: ["guidelines", "community-manual"]
 
 **Thank you for considering volunteering to mentor with Dames Making Games!** If this is your first time volunteering with DMG, please take a moment to read through these guidelines.
 
-_While we greatly value the contributions of everyone who supports DMG with their time and expertise, we strive to center and prioritize genderqueer, femme, nonbinary, Two Spirit folks and Black, Indigenous and women of colour in our space, and expect all mentors and volunteers to do the same._
+_While we greatly value the contributions of everyone who supports DMG with their time and expertise, we strive to center and prioritize genderqueer, femme, nonbinary, Two Spirit folks and Indigenous, Black and women of colour in our space, and expect all mentors and volunteers to do the same._
 
 ## What is my role during the program?
 

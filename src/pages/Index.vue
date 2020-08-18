@@ -27,11 +27,15 @@
         </div>
 
         <p>
-          We strive to prioritize the experiences of Black, Indigenous,
-          racialized and people of color, and give up space as part of our work
-          towards redressing dispossession, oppression, settler colonialism and
-          the living legacy of racism. We expect all of our members to do the
-          same.
+          We strive to prioritize the experiences of
+          <a
+            href="https://www.primary-colours.ca/project_collections/12-ibpoc-artistic-practices"
+            target="_blank"
+          >
+            Indigenous, Black, racialized and people of color </a
+          >, and give up space as part of our work towards redressing
+          dispossession, oppression, settler colonialism and the living legacy
+          of racism. We expect all of our members to do the same.
         </p>
         <p>
           Read more about expected behaviour in our
