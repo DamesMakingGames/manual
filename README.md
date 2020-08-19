@@ -18,6 +18,6 @@ If you'd like to work on the manual in a local development environment, follow t
 4. npm install
 5. `gridsome develop` to start a local dev server at http://localhost:8080
 
-## License 
+## License
 
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+This work is licensed under the [The Anti-Capitalist Software License](https://anticapitalist.software/)
