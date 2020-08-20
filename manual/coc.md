@@ -8,7 +8,7 @@ tags: ["code-of-conduct", "community-manual"]
 
 All **community participants** – including members and guests of members, event hosts, sponsors, presenters, exhibitors, participants and attendees – are expected to abide by this code of conduct.
 
-By becoming a member of Dames Making Games, or participating in any DMG event in any capacity, you agree to abide by this code of conduct, and cooperate with organizers and admins who enforce it.
+By becoming a member of DMG, or participating in any DMG event in any capacity, you agree to abide by this code of conduct, and cooperate with organizers and admins who enforce it.
 
 ## Expected Behavior
 
