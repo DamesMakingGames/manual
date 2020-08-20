@@ -15,22 +15,22 @@
     "@gridsome/vue-remark": "^0.1.10",
     "axios": "^0.19.2",
     "dot-prop": "^4.2.1",
-    "gridsome": "^0.7.17",
+    "gridsome": "^0.7.19",
     "gridsome-plugin-remark-shiki": "^0.3.1",
     "gridsome-plugin-rss": "^1.2.0",
     "lodash.pick": "^4.4.0",
     "luxon": "^1.24.1",
     "minimist": "^0.2.1",
-    "postcss-nested": "^4.2.1",
+    "postcss-nested": "^4.2.3",
     "remark-footnotes": "^1.0.0",
     "remark-toc": "^7.0.0",
     "serialize-javascript": "^4.0.0",
-    "slugify": "^1.4.0",
+    "slugify": "^1.4.5",
     "vue-fuse": "^2.2.1",
     "vue-luxon": "^0.7.3",
-    "vue-scrollto": "^2.18.1"
+    "vue-scrollto": "^2.18.2"
   },
   "devDependencies": {
-    "tailwindcss": "^1.4.6"
+    "tailwindcss": "^1.7.2"
   }
 }
