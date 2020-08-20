@@ -6,9 +6,9 @@ path: /mentorship-guidelines
 tags: ["guidelines", "community-manual"]
 ---
 
-**Thank you for considering volunteering to mentor with Dames Making Games!** If this is your first time volunteering with DMG, please take a moment to read through these guidelines.
+**Thank you for considering volunteering to mentor with DMG!** If this is your first time volunteering or mentoring with DMG – or if it's been a while – please take a moment to read through these guidelines.
 
-_While we greatly value the contributions of everyone who supports DMG with their time and expertise, we strive to center and prioritize genderqueer, femme, nonbinary, Two Spirit folks and Indigenous, Black and women of colour in our space, and expect all mentors and volunteers to do the same._
+_While we greatly value the contributions of everyone who supports DMG with their time and expertise, we strive to center and prioritize people who are socially and structurally marginalized in tech and game spaces, especially gender-marginalized and racialized people. We expect all mentors and volunteers to do the same._
 
 ## What is my role during the program?
 
@@ -18,40 +18,45 @@ _While we greatly value the contributions of everyone who supports DMG with thei
 
 **Expect to learn as much from the participants as they will learn from you.**
 
-- Mentors are, without exception, active and trusted members of the DMG and/or Gamma Space communities. Everything we know about being a good mentor we've learned from mentors and facilitators at our programs, and owe a huge debt of gratitude to everyone who has helped set the tone for a truly supportive and collaborative community.
+- Mentors are, without exception, engaged and trusted members of the DMG and/or Gamma Space communities. Everything we know about being a good mentor we've learned from mentors and facilitators at our programs, and owe a huge debt of gratitude to everyone who has helped set the tone for a truly supportive and collaborative community.
 
 ## What is a DMG intensive?
 
-It’s _not_ a "learn to program" course. We _don’t_ just teach a specific development environment or language, or how to make a certain type of game or interactive experience. We _do_ provide:
+It’s _not_ a "learn to program" course. We _don’t_ just teach a specific development environment or language, or how to make a certain type of game or interactive experience. Depending on the program, we may provide:
 
 - A crash course in/survey of a wide range of technical and creative aspects of game development \(design principles, composing, visual art, project management, and more\)
 - A game design vocabulary and opportunities to develop literacy around play
 - A safe and open place to talk about what games mean to us
 - A structured environment for individuals to find and express their creative voice and discover what interests them most about making games
 - A time and place for participants to learn from and support one another
+  – Resources and access to new networks, including educators, investors, academics, industry and funders
 
 ## Understanding DMG's goals and values
 
 DMG is a member organization that **values** collaborative learning, free self-expression, affirmation and creation. Learn more about us here:
 
-- [Member introduction](../)
-- [About DMG](https://dmg.to/about)
+- [History, mission and vision](/manual/about-dmg/)
+- [Info for new members](/manual/index/)
+- [About DMG (dmg.to)](https://dmg.to/about)
 
-Please read and affirm our [Code of Conduct](../code-of-conduct/), and talk to an organizer if you are confused about anything.
+Please read and affirm our [Code of Conduct](/manual/code-of-conduct/), and talk to an organizer if you are confused about anything.
 
 ## Understanding the goals of an intensive
 
-Our intensive programs \(Damage Camps\) are workshops that last four to six weeks with a set cohort of participants selected through an application process. The group meets two to three times per week, and receives one-on-one mentorship for the duration of the program. The purpose of our long programs is to:
+Our intensive programs are workshops that last one to six months, with a set cohort of participants selected through an application process. The group meets two to three times per week, and receives one-on-one mentorship and peer support for the duration of the program. The purpose of our long programs is to:
 
+- Contribute to systemic change in the games industry that will result in more resources, autonomy and liberation for everyone, prioritizing those who have been excluded from and harmed by it
 - Create a friendly, open, collaborative experience for participants
-- Provide a safe and playful space for exploring creative ideas, as well as learning problem-solving and technical skills
+  - Create vital new networks and open up access to resources for new members of the community
+- Transfer tacit knowledge from experienced creators to new members
+- Provide a safe and playful space for exploring creative ideas, as well as learning problem-solving, technical, and organizational skills
 - Facilitate meaningful connections between participants and more experienced members of the DMG and Toronto game communities
-- Expose established members of the community to valuable new perspectives
+- Expose established members of the community to valuable new perspectives, experiences and knowledge
 - Help create makers, mentors, collaborators, and friends out of everyone involved
 
 ## Who are you mentoring?
 
-Intensive participants come from a **wide variety of backgrounds** and have a range of skills, interests and knowledge. Get to know them!
+Intensive participants come from a **broad scope backgrounds** and have a range of skills, interests and knowledge. Get to know them! Trust and respect the unique experiences and skills they bring.
 
 ## Inclusive Language and Behavior
 
@@ -71,15 +76,14 @@ It is critical that a safe, stress-free and inclusive environment is maintained 
 - Give clear directions and let participants do their own work – **if you're frustrated by the speed a participant is learning, you're in the wrong place**
 - If you absolutely must type something **\(chances are you don't\)**, ask "May I?”, go slow and explain what you are doing
 
-#### Sexual jokes, remarks, and advances are never funny or appropriate
-
 #### Focus on the participants
 
 - Be available and attentive to participants throughout the work session.
-- Stay on the sidelines, but "read the room" by monitoring facial expressions visual cues that signal frustration. Ask, "What are you struggling with? Can I help?"
+- Stay on the sidelines, but "read the room" by monitoring facial expressions visual cues that signal frustration. Ask, "What are you struggling with? Can I help?" if it's clear someone is struggling
+- Do not interrupt or talk over participants. Listen, listen, listen.
 - Avoid in-jokes and lengthy private conversations with other mentors - this can be alienating. Include participants in casual conversations.
-- Try to find and respect the core idea of the game and understand its style, even if it's something that doesn't appeal to you personally
-- Don't suggest that participants drastically alter their mechanics; help them improve on the game they've chosen to make.
+- Understand that participants' goals with their projects may not match your own, and that's ok. We are here to support self-determined outcomes.
+- Don't suggest that participants drastically alter their projects; help them improve on what they've chosen to make.
 
 ### "Do"s and "Don't"s for Respectful Critique and Discussion
 
@@ -88,10 +92,9 @@ It is critical that a safe, stress-free and inclusive environment is maintained 
 | "This doesn't make sense."      | **Help articulate problems** "Can you explain your thought process?"                                                                             |
 | "No."                           | "You're heading in the right direction" "Yes, and…"                                                                                              |
 | "It doesn't work" "It's broken" | "Let's try to improve this part."                                                                                                                |
-| "This is just like \[Game X\]." | "Check out these games – they're doing something similar. What can we learn from them?"                                                          |
+| "This is just like \[Idea X\]." | "Check out these projects – they're doing something similar. What can we learn from them?"                                                       |
 | "Do you have any questions?"    | **Encourage questions, and respond to them positively** "What questions do you have?" "What an interesting question! I've wondered that myself." |
 
 ## Thanks!
 
-- Hat-tip to [RailsBridge](http://workshops.railsbridge.org/), a volunteer-run organization that produces free Ruby on Rails workshops for women and their friends
 - Mentors past: You set the tone and a great example for this wonderfully collaborative community.
