@@ -15,7 +15,7 @@ This policy covers projects/games created by individual members or groups where 
 - Submissions may be reviewed by the board for appropriateness to the festival or exhibition’s call for submissions.
 - The board may deny reimbursement requests or waive any of the foregoing requirements at its sole discretion.
 - If the submission is a collaborative project, all contributors must consent to the submission.
-- Please acknowledge DMG in your materials (logo and/or text: "Support from Dames Making Games")
+- Please acknowledge DMG in your materials (logo and/or text: "Support from DMG")
 
 To submit your fee for reimbursement, email the following to [membership@dmg.to](mailto:membership@dmg.to):
 
