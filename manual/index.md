@@ -55,4 +55,4 @@ Here are some resources you have access to as a member of DMG:
 - Library access
 - Event hosting and space booking privileges
 
-If you have any qeustions about accessing any of your benefits, please email us at [membership@dmg.to](mailto:membership@dmg.to)
+If you have any questions about accessing any of your benefits, please email us at [membership@dmg.to](mailto:membership@dmg.to)
