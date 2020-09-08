@@ -29,7 +29,7 @@ It’s _not_ a "learn to program" course. We _don’t_ just teach a specific dev
 - A safe and open place to talk about what games mean to us
 - A structured environment for individuals to find and express their creative voice and discover what interests them most about making games
 - A time and place for participants to learn from and support one another
-  – Resources and access to new networks, including educators, investors, academics, industry and funders
+- Resources and access to new networks, including educators, investors, academics, industry and funders
 
 ## Understanding DMG's goals and values
 
@@ -45,14 +45,14 @@ Please read and affirm our [Code of Conduct](/manual/code-of-conduct/), and talk
 
 Our intensive programs are workshops that last one to six months, with a set cohort of participants selected through an application process. The group meets two to three times per week, and receives one-on-one mentorship and peer support for the duration of the program. The purpose of our long programs is to:
 
-- Contribute to systemic change in the games industry that will result in more resources, autonomy and liberation for everyone, prioritizing those who have been excluded from and harmed by it
 - Create a friendly, open, collaborative experience for participants
-  - Create vital new networks and open up access to resources for new members of the community
+- Create vital new networks and open up access to resources for new members of the community
 - Transfer tacit knowledge from experienced creators to new members
 - Provide a safe and playful space for exploring creative ideas, as well as learning problem-solving, technical, and organizational skills
 - Facilitate meaningful connections between participants and more experienced members of the DMG and Toronto game communities
 - Expose established members of the community to valuable new perspectives, experiences and knowledge
 - Help create makers, mentors, collaborators, and friends out of everyone involved
+- Contribute to systemic change in the games industry that will result in more resources, autonomy and liberation for everyone, prioritizing those who have been excluded from and harmed by it
 
 ## Who are you mentoring?
 
