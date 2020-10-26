@@ -7,3 +7,6 @@ dist
 .env
 .env.*
 static/rss.xml
+
+# Local Netlify folder
+.netlify

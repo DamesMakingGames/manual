@@ -28,10 +28,10 @@
     "serialize-javascript": "^4.0.0",
     "slugify": "^1.4.5",
     "vue-fuse": "^2.2.1",
-    "vue-luxon": "^0.7.3",
-    "vue-scrollto": "^2.18.2"
+    "vue-luxon": "^0.7.4",
+    "vue-scrollto": "^2.19.1"
   },
   "devDependencies": {
-    "tailwindcss": "^1.8.10"
+    "tailwindcss": "^1.9.6"
   }
 }
