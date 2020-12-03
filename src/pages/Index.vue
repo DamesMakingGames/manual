@@ -62,7 +62,7 @@
         <p>
           <a
             class="btn bg-red-500 hover:bg-red-700 text-white hover:text-white font-bold py-2 px-4 rounded my-12 block text-center mx-auto w-64"
-            href="/manual/index/"
+            href="/manual/new-members/"
             >New member? Start here!</a
           >
         </p>

@@ -2,7 +2,7 @@
 title: "New Members"
 date: 2019-11-20
 summary: All about DMG!
-path: /index
+path: /new-members
 tags: ["info", "community-manual"]
 ---
 
