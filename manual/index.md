@@ -40,19 +40,22 @@ Here are some resources you have access to as a member of DMG:
 
 - Free access to all paid workshops
 - Slack team to connect with members + opportunities
+- Health insurance eligibility for you and your family through the [Arts & Entertainment Plan](https://www.aeplan.ca/guest)
 - Members-only jams, game nights and critique sessions
-- Member roster listing and profile
-- Exhibition and development assistance
+- Technical and financial support for exhibition and development
 - [Livestreams and workshop video library](https://dmg.to/members/bulletin)
 - [Financial support for conference/competition fees](/manual/festival-fee-policy/)
 - Project support, facilitation and mentorship
-- Priority application for multi-week workshops
-- Health insurance eligibility for you and your family through the [Arts & Entertainment Plan](https://www.aeplan.ca/guest)
+- Free and reduced cost access to group legal and financial aid programs
 - Voting rights at our annual general meeting
-- Collaborator matchmaking tool
+- Active listening and collective advocacy to support you with workplace/HR issues
+- Member roster listing and profile, collaborator matchmaking tool
+
+On hold until COVID-19 no longer keeps us apart:
+
 - Access to our member studio Monday-Friday, 10am-6pm
 - Equipment rentals by reservation
-- Library access
+- Game/book/zine library access
 - Event hosting and space booking privileges
 
 If you have any questions about accessing any of your benefits, please email us at [membership@dmg.to](mailto:membership@dmg.to)
