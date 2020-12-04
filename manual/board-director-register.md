@@ -17,7 +17,6 @@ tags: ["board", "organizers-manual"]
 | Shel Kahn               |                            | Jan 25, 2020 | Jan 25, 2021  |
 | Jayd Matyas             |                            | Dec 12, 2018 | Jan 25, 2021  |
 | Soha El-Sabaawi         |                            | Nov 27, 2014 | Nov 27, 2020  |
-| Meagan Byrne            |                            | Jan 14, 2017 | April 1, 2020 |
 
 ### Past Directors
 
@@ -29,3 +28,4 @@ tags: ["board", "organizers-manual"]
 | Jennie Robinson Faber |           | Aug 30, 2012 | Jan 12, 2019  |
 | Yifat Shaik           |           | Jan 19, 2017 | Jan 19, 2020  |
 | Rose Goodwin          |           | Jan 12, 2019 | Jan 12, 2020  |
+| Meagan Byrne            |                            | Jan 14, 2017 | April 1, 2020 |
