@@ -10,7 +10,7 @@ tags: ["guidelines", "community-manual"]
 
 ## Platform
 
-For now, most of our online events will be held using [DMG's private BigBlueButton](https://meet.dmg.to) meeting platform, so this guide is written with that in mind. BBB is a free and ope-source web-based video meeting and collaboration platform. Learn more about using it here: [BigBlueButton Tutorial Videos](https://bigbluebutton.org/html5/) and about the accessibility of the platform here: [BigBlueButton Accessibility Assessment](https://bigbluebutton.org/accessibility/)
+For now, most of our online events will be held using [DMG's private BigBlueButton](https://meet.dmg.to) meeting platform, so this guide is written with that in mind. BBB is a free and open-source web-based video meeting and collaboration platform. Learn more about using it here: [BigBlueButton Tutorial Videos](https://bigbluebutton.org/html5/) and about the accessibility of the platform here: [BigBlueButton Accessibility Assessment](https://bigbluebutton.org/accessibility/)
 
 ## Safety
 
