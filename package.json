@@ -11,12 +11,12 @@
     "@gridsome/plugin-sitemap": "^0.2.3",
     "@gridsome/source-airtable": "^0.1.4",
     "@gridsome/source-filesystem": "^0.6.2",
-    "@gridsome/transformer-remark": "^0.6.3",
-    "@gridsome/vue-remark": "^0.2.5",
+    "@gridsome/transformer-remark": "^0.6.4",
+    "@gridsome/vue-remark": "^0.2.6",
     "axios": "^0.19.2",
     "bl": "^2.2.1",
     "dot-prop": "^4.2.1",
-    "gridsome": "^0.7.21",
+    "gridsome": "^0.7.23",
     "gridsome-plugin-remark-shiki": "^0.3.1",
     "gridsome-plugin-rss": "^1.2.0",
     "lodash.pick": "^4.4.0",
@@ -26,10 +26,10 @@
     "remark-footnotes": "^1.0.0",
     "remark-toc": "^7.0.0",
     "serialize-javascript": "^4.0.0",
-    "slugify": "^1.4.5",
+    "slugify": "^1.4.6",
     "vue-fuse": "^2.2.1",
     "vue-luxon": "^0.7.4",
-    "vue-scrollto": "^2.19.1"
+    "vue-scrollto": "^2.20.0"
   },
   "devDependencies": {
     "tailwindcss": "^1.9.6"
