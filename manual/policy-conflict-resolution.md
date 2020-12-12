@@ -3,8 +3,10 @@ title: "Conflict Resolution Policy"
 date: 2019-03-07
 summary: Information about our conflict resolution policies.
 path: /conflict-resolution-policy
-tags: ["policies", "community-manual"]
+tags: ["policies", "community-manual", "conflict-resolution"]
 ---
+
+See also: [Conflict Resolution Procedures](/manual/conflict-resolution-procedures/), [Responding to Code of Conduct Violations](/manual/code-of-conduct-responding/).
 
 ## Purpose
 

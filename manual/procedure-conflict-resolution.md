@@ -3,8 +3,10 @@ title: "Conflict Resolution Procedures"
 date: 2019-03-07
 summary: Information on our conflict resulution procedures.
 path: /conflict-resolution-procedures
-tags: ["procedures", "community-manual"]
+tags: ["procedures", "community-manual", "conflict-resolution"]
 ---
+
+See also: [Conflict Resolution Policy](/manual/conflict-resolution-policy/), [Responding to Code of Conduct Violations](/manual/code-of-conduct-responding/).
 
 _This procedure is adapted and derived in part from work by Sheila Wilmot, Consultant for the MANO Conflict Resolution Working Group. Please see MANO's [Guides on HR, Governance, Equity and Conflict Resolution](https://mano-ramo.ca/guides-on-hr-governance-accessibility-equity-and-conflict-resolution/)_
 
