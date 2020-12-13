@@ -1,7 +1,7 @@
 @tailwind base;
 
 /* purgecss start ignore */
-
+@import "github-markdown.css";
 h1,
 h2,
 h3,

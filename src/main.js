@@ -6,6 +6,7 @@ import VueScrollTo from "vue-scrollto";
 import VueLuxon from "vue-luxon";
 
 import VueFuse from "vue-fuse";
+import "~/css/main.css";
 
 export default function(Vue, { router, head, isClient }) {
   // Set default layout as a global component
@@ -23,11 +24,6 @@ export default function(Vue, { router, head, isClient }) {
     content: "DMG Toronto",
   });
 
-  head.link.push({
-    rel: "stylesheet",
-    href:
-      "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700|Roboto:400,400i,900&display=swap",
-  });
   Vue.use(VueLuxon, {
     clientZone: "America/Toronto",
     serverZone: "America/Toronto",
