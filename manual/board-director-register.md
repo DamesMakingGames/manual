@@ -12,7 +12,7 @@ Members whose term expires between annual meetings of the members hold office by
 
 | Name                   | Office           | Election     | Term End     |
 | :--------------------- | :--------------- | :----------- | :----------- |
-| Santo Aveiro-Ojeda     | Chair, president | Feb 28, 2016 | Feb 28, 2020 |
+| Santo Aveiro-Ojeda     | Chair, president | Feb 28, 2016 | Feb 28, 2021 |
 | Natalie Zina Walschots | Treasurer        | Jan 12, 2019 | Jan 25, 2021 |
 | Kaitlin Tremblay       | Secretary        | Jan 12, 2019 | Jan 25, 2021 |
 | Shel Kahn              |                  | Jan 25, 2020 | Jan 25, 2021 |
