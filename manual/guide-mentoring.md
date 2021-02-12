@@ -95,6 +95,19 @@ It is critical that a safe, stress-free and inclusive environment is maintained 
 | "This is just like \[Idea X\]." | "Check out these projects – they're doing something similar. What can we learn from them?"                                                       |
 | "Do you have any questions?"    | **Encourage questions, and respond to them positively** "What questions do you have?" "What an interesting question! I've wondered that myself." |
 
+## Online Spaces
+
+When engaging with participants on DMG Slack, please:
+
+1. Default to communicating through the shared channel for the event or program. 
+2. Do not initiate private messages to participants without the explicit consent of the participant.
+4. Our Code of Conduct and harassment reporting and response procedures apply to all digital spaces, controlled by DMG or not. 
+
+_If you are not a DMG member, your Slack handle will be deactivated at the end of the program._
+
+Understand that safety and boundaries mean different things for different people. The way to create a safer and more accessible space for everyone is to ask respectfully and learn from one another interpersonally.
+
+
 ## Thanks!
 
 - Mentors past: You set the tone and a great example for this wonderfully collaborative community.
