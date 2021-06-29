@@ -12,8 +12,7 @@ If you witness or are subject to unacceptable behavior, or experience marginaliz
 - Any DMG volunteer, staff person, or director
 - Any member of the conflict resolution committee:
   - Santo Aveiro-Ojeda \(co-chair\)
-  - Izzie Colpitts-Campbell \(co-chair\)
-  - Jennie Robinson Faber \(ex-officio\)
+  - Izzie Colpitts-Campbell
   - Kaitlin Tremblay
   - Jen Costa
 
