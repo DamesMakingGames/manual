@@ -18,7 +18,7 @@ If you witness or are subject to unacceptable behavior, or experience marginaliz
 
 Email [hr@dmg.to](mailto:hr@dmg.to) to reach the current chair \(or co-chairs\) of the conflict resolution committee.
 
-To make an anonymous report, please use [this form](/report).
+To make an anonymous report, please use [this form](/report). This report will be considered an informal complaint. We will not take action unless otherwise stated, but will document it for our knowledge should anything similar be brought to our attention. It will inform how DMG conducts itself in the future as well as inform any future conflicts.
 
 Your conversation will be held in confidence.
 
