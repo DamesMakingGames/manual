@@ -48,16 +48,16 @@ module.exports = {
         typeName: "Tag",
       },
     },
-    {
-      use: "@gridsome/source-airtable",
-      options: {
-        apiKey: process.env.airtable_api_key,
-        baseId: process.env.airtable_base_id,
-        tableName: "Projects",
-        typeName: "Project",
-        select: {},
-      },
-    },
+    // {
+    //   use: "@gridsome/source-airtable",
+    //   options: {
+    //     apiKey: process.env.airtable_api_key,
+    //     baseId: process.env.airtable_base_id,
+    //     tableName: "Projects",
+    //     typeName: "Project",
+    //     select: {},
+    //   },
+    // },
   ],
 
   transformers: {

@@ -8,15 +8,15 @@ var DateTime = luxon.DateTime;
 let d = DateTime.local();
 let today = d.toISODate();
 module.exports = function(api, options) {
-  api.createPages(({ createPage }) => {
-    createPage({
-      path: "/projects",
-      component: "./src/templates/Projects.vue",
-      context: {
-        today: today,
-      },
-    });
-  });
+  // api.createPages(({ createPage }) => {
+  //   createPage({
+  //     path: "/projects",
+  //     component: "./src/templates/Projects.vue",
+  //     context: {
+  //       today: today,
+  //     },
+  //   });
+  // });
   api.loadSource((store) => {
     const cleanedPathPrefix = `${
       pathPrefix
