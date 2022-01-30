@@ -14,10 +14,9 @@ Members whose term expires between annual meetings of the members hold office by
 | :--------------------- | :--------------- | :----------- | :----------- |
 | Santo Aveiro-Ojeda     | Chair, president | Feb 28, 2016 | Feb 28, 2021 |
 | Natalie Zina Walschots | Treasurer        | Jan 12, 2019 | Jan 25, 2021 |
-| Kaitlin Tremblay       | Secretary        | Jan 12, 2019 | Jan 25, 2021 |
+| Sebastian Pines        |                  | Feb 27, 2021 | Feb 27, 2022 |
 | Shel Kahn              |                  | Jan 25, 2020 | Jan 25, 2021 |
 | Jayd Matyas            |                  | Dec 12, 2018 | Jan 25, 2021 |
-| Soha El-Sabaawi        |                  | Nov 27, 2014 | Nov 27, 2020 |
 
 ### Past Directors
 
@@ -31,3 +30,4 @@ Members whose term expires between annual meetings of the members hold office by
 | Rose Goodwin            |                  | Jan 12, 2019 | Jan 12, 2020  |
 | Meagan Byrne            |                  | Jan 14, 2017 | April 1, 2020 |
 | Izzie Colpitts-Campbell | Chair, president | Nov 27, 2014 | Nov 27, 2020  |
+| Soha El-Sabaawi         |                  | Nov 27, 2014 | Nov 27, 2020  |
