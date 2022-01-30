@@ -30,4 +30,5 @@ Members whose term expires between annual meetings of the members hold office by
 | Rose Goodwin            |                  | Jan 12, 2019 | Jan 12, 2020  |
 | Meagan Byrne            |                  | Jan 14, 2017 | April 1, 2020 |
 | Izzie Colpitts-Campbell | Chair, president | Nov 27, 2014 | Nov 27, 2020  |
+| Kait Tremblay            | Secretary | | Jan 2022
 | Soha El-Sabaawi         |                  | Nov 27, 2014 | Nov 27, 2020  |
