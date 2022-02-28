@@ -12,11 +12,13 @@ Members whose term expires between annual meetings of the members hold office by
 
 | Name                   | Office           | Election     | Term End     |
 | :--------------------- | :--------------- | :----------- | :----------- |
-| Santo Aveiro-Ojeda     | Chair, president | Feb 28, 2016 | Feb 28, 2022 |
-| Natalie Zina Walschots | Treasurer        | Jan 12, 2019 | Jan 25, 2022 |
-| Sebastian Pines        |                  | Feb 27, 2021 | Feb 27, 2022 |
-| Shel Kahn              |                  | Jan 25, 2020 | Jan 25, 2022 |
-| Jayd Matyas            |                  | Dec 12, 2018 | Jan 25, 2022 |
+| Santo Aveiro-Ojeda     | Chair, president | Feb 28, 2016 | Feb 26, 2023 |
+| Natalie Zina Walschots | Treasurer        | Jan 12, 2019 | Jan 25, 2023 |
+| Sebastian Pines        |                  | Feb 27, 2021 | Feb 27, 2023 |
+| Shel Kahn              |                  | Jan 25, 2020 | Jan 25, 2023 |
+| Jayd Matyas            |                  | Dec 12, 2018 | Jan 25, 2023 |
+| Corinne Crichlow       |                  | Feb 26, 2022 | Feb 26, 2023 |
+| Celine Taillefer       | Secretary        | Feb 26, 2022 | Feb 26, 2023 |
 
 ### Past Directors
 
