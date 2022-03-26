@@ -21,7 +21,7 @@
     "gridsome-plugin-rss": "^1.2.0",
     "lodash.pick": "^4.4.0",
     "luxon": "^1.25.0",
-    "minimist": "^0.2.1",
+    "minimist": "^1.2.6",
     "postcss-nested": "^4.2.3",
     "remark-footnotes": "^1.0.0",
     "remark-toc": "^7.0.0",
