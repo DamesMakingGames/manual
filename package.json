@@ -20,7 +20,7 @@
     "gridsome-plugin-remark-shiki": "^0.3.1",
     "gridsome-plugin-rss": "^1.2.0",
     "lodash.pick": "^4.4.0",
-    "luxon": "^1.25.0",
+    "luxon": "^1.28.1",
     "minimist": "^0.2.1",
     "postcss-nested": "^4.2.3",
     "remark-footnotes": "^1.0.0",
